@@ -1,6 +1,6 @@
-# Movie Streaming Website
+# Movie Selling Website
 
-A modern movie streaming platform built with PHP, CSS, HTML, MySQL,JAVASCRIPT and Bootstrap. The website allows users to browse, watch, and purchase movies, manage their watchlist, and track their orders.
+A modern movie streaming platform built with PHP, CSS, HTML, MySQL,JAVASCRIPT and Bootstrap. The website allows users to browse and purchase movies, manage their watchlist, and track their orders.
 
 ## Features
 
@@ -249,16 +249,3 @@ A modern movie streaming platform built with PHP, CSS, HTML, MySQL,JAVASCRIPT an
 - XSS prevention measures
 - Secure session handling
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Support
-
-For support, email [support@example.com](mailto:support@example.com) or create an issue in the repository.
-
-## Acknowledgments
-
-- Bootstrap for the frontend framework
-- Font Awesome for icons
-- All contributors who have helped with the project 
