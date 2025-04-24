@@ -1,6 +1,6 @@
 # Movie Streaming Website
 
-A modern movie streaming platform built with PHP, MySQL, and Bootstrap. The website allows users to browse, watch, and purchase movies, manage their watchlist, and track their orders.
+A modern movie streaming platform built with PHP, CSS, HTML, MySQL,JAVASCRIPT and Bootstrap. The website allows users to browse, watch, and purchase movies, manage their watchlist, and track their orders.
 
 ## Features
 
@@ -36,19 +36,58 @@ A modern movie streaming platform built with PHP, MySQL, and Bootstrap. The webs
 
 - **Backend**
   - PHP 8.2
+    - Object-oriented programming
+    - PDO for database connections
+    - Custom MVC architecture
   - MySQL 8.0
+    - Optimized database queries
+    - Stored procedures
+    - Transaction management
   - Apache Web Server
+    - mod_rewrite for clean URLs
+    - Custom error handling
 
 - **Frontend**
   - HTML5
-  - CSS3 (with modern features)
-  - JavaScript
+    - Semantic markup
+    - Accessibility features (ARIA)
+    - Structured data (Schema.org)
+    - Responsive meta tags
+  - CSS3
+    - Flexbox and Grid layouts
+    - Custom variables (CSS Variables)
+    - Media queries for responsiveness
+    - Animations and transitions
+    - BEM naming convention
+  - JavaScript (ES6+)
+    - Async/Await functionality
+    - DOM manipulation
+    - Form validation
+    - AJAX requests
   - Bootstrap 5
-  - Font Awesome icons
+    - Custom theme modifications
+    - Responsive grid system
+    - Component customization
+  - Font Awesome 6
+    - Custom icon integration
+    - SVG with JavaScript
 
-- **Development**
-  - Docker for containerization
-  - Git for version control
+- **Development & Tools**
+  - Docker
+    - Multi-container setup
+    - Custom networking
+    - Volume management
+  - Git
+    - Feature branch workflow
+    - Conventional commits
+  - VS Code
+    - Recommended extensions
+    - Custom workspace settings
+
+- **API Integrations**
+  - Payment gateway integration
+  - Movie data API
+  - YouTube API for trailers
 
 ## Project Structure
 
@@ -71,6 +110,51 @@ A modern movie streaming platform built with PHP, MySQL, and Bootstrap. The webs
 ├── docker-compose.yml   # Docker services configuration
 └── README.md           # Project documentation
 ```
+
+## Coding Standards & Best Practices
+
+### HTML
+- Semantic HTML5 elements for better structure and SEO
+- Proper heading hierarchy (h1-h6)
+- ARIA labels and roles for accessibility
+- Valid and well-formed markup (W3C validated)
+- Responsive images with srcset and sizes
+- Lazy loading for media elements
+
+### CSS
+- Mobile-first approach
+- BEM (Block Element Modifier) methodology
+- CSS Custom Properties for theming
+- Modular SCSS architecture
+  - Base styles
+  - Components
+  - Layouts
+  - Utilities
+- Performance optimizations
+  - Critical CSS
+  - Minification
+  - Efficient selectors
+
+### JavaScript
+- ES6+ features
+- Module pattern
+- Event delegation
+- Error handling
+- Performance optimization
+  - Code splitting
+  - Lazy loading
+  - Debouncing/Throttling
+- Clean code principles
+
+### PHP
+- PSR-12 coding standards
+- SOLID principles
+- Security best practices
+  - Input validation
+  - Output escaping
+  - Prepared statements
+- Error logging and handling
+- Dependency management with Composer
 
 ## Installation
 
