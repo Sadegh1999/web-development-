@@ -1,0 +1,74 @@
+version: '3.8'
+
+services:
+  # Web Application Service
+  web:
+    image: php:8.0-apache
+    container_name: web_app
+    restart: always
+    ports:
+      - "8081:80"
+    volumes:
+      - ./:/var/www/html
+    depends_on:
+      db:
+        condition: service_healthy
+    command: >
+      bash -c "
+        apt-get update && apt-get install -y default-mysql-client &&
+        docker-php-ext-install pdo pdo_mysql mysqli &&
+        a2enmod rewrite &&
+        chown -R www-data:www-data /var/www/html &&
+        apache2-foreground"
+
+  # Database Service
+  db:
+    image: mysql:8.0
+    container_name: mysql_db
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: newdb
+      MYSQL_USER: app_user
+      MYSQL_PASSWORD: app_password
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql
+    command: --default-authentication-plugin=mysql_native_password
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost", "-u", "root", "-proot"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+      start_period: 30s
+
+  # phpMyAdmin Service
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin
+    container_name: phpmyadmin
+    restart: always
+    ports:
+      - "8080:80"
+    environment:
+      PMA_HOST: db
+      MYSQL_ROOT_PASSWORD: root
+    depends_on:
+      db:
+        condition: service_healthy
+
+  # Redis Service (for caching)
+  redis:
+    image: redis:latest
+    container_name: film_streaming_redis
+    ports:
+      - "6379:6379"
+    networks:
+      - film_streaming_network
+
+networks:
+  film_streaming_network:
+    driver: bridge
+
+volumes:
+  mysql_data:

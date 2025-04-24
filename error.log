@@ -1,0 +1,3265 @@
+[13-Apr-2025 13:32:04 UTC] Database connection failed: SQLSTATE[HY000] [2002] No such file or directory
+[13-Apr-2025 13:33:15 UTC] Database connection failed: SQLSTATE[HY000] [2002] No such file or directory
+[13-Apr-2025 13:33:15 UTC] Database connection failed: SQLSTATE[HY000] [2002] No such file or directory
+[13-Apr-2025 13:33:16 UTC] Database connection failed: SQLSTATE[HY000] [2002] No such file or directory
+[13-Apr-2025 13:34:10 UTC] Database connection failed: SQLSTATE[HY000] [2002] No such file or directory
+[13-Apr-2025 13:34:11 UTC] Database connection failed: SQLSTATE[HY000] [2002] No such file or directory
+[13-Apr-2025 13:35:09 UTC] Database connection failed: SQLSTATE[HY000] [2002] No such file or directory
+[13-Apr-2025 13:35:10 UTC] Database connection failed: SQLSTATE[HY000] [2002] No such file or directory
+[13-Apr-2025 13:36:52 UTC] Database connection failed: SQLSTATE[HY000] [2002] No such file or directory
+[13-Apr-2025 13:37:53 UTC] Database connection successful
+[13-Apr-2025 13:37:53 UTC] Database connection successful in index.php
+[13-Apr-2025 13:37:53 UTC] PHP Warning:  require_once(header.php): Failed to open stream: No such file or directory in /var/www/html/index.php on line 96
+[13-Apr-2025 13:37:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'header.php' (include_path='.:/usr/local/lib/php') in /var/www/html/index.php:96
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/index.php on line 96
+[13-Apr-2025 13:38:48 UTC] Database connection successful
+[13-Apr-2025 13:38:48 UTC] Database connection successful in index.php
+[13-Apr-2025 13:38:48 UTC] Database error in featured movies section: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[13-Apr-2025 13:38:48 UTC] Database error in categories section: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[13-Apr-2025 13:39:36 UTC] Database connection successful
+[13-Apr-2025 13:39:36 UTC] Database connection successful in index.php
+[13-Apr-2025 13:39:36 UTC] Database error in featured movies section: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[13-Apr-2025 13:39:36 UTC] Database error in categories section: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[13-Apr-2025 13:39:37 UTC] Database connection successful
+[13-Apr-2025 13:39:37 UTC] Database connection successful in index.php
+[13-Apr-2025 13:39:37 UTC] Database error in featured movies section: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[13-Apr-2025 13:39:37 UTC] Database error in categories section: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[13-Apr-2025 13:39:41 UTC] Database connection successful
+[13-Apr-2025 13:39:41 UTC] Database connection successful in index.php
+[13-Apr-2025 13:39:41 UTC] Database error in featured movies section: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[13-Apr-2025 13:39:41 UTC] Database error in categories section: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[13-Apr-2025 13:39:58 UTC] Database connection successful
+[13-Apr-2025 13:40:06 UTC] Database connection successful
+[13-Apr-2025 13:40:07 UTC] Database connection successful
+[13-Apr-2025 13:40:07 UTC] Database connection successful in index.php
+[13-Apr-2025 13:40:07 UTC] Database error in featured movies section: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[13-Apr-2025 13:40:07 UTC] Database error in categories section: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[13-Apr-2025 13:40:43 UTC] Database connection successful
+[13-Apr-2025 13:40:43 UTC] Database connection successful in index.php
+[13-Apr-2025 13:40:43 UTC] Database error in featured movies section: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[13-Apr-2025 13:40:43 UTC] Database error in categories section: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[13-Apr-2025 13:40:49 UTC] Database connection successful
+[13-Apr-2025 13:40:49 UTC] Database connection successful in index.php
+[13-Apr-2025 13:40:49 UTC] Database error in featured movies section: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[13-Apr-2025 13:40:49 UTC] Database error in categories section: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[13-Apr-2025 13:40:55 UTC] Database connection successful
+[13-Apr-2025 13:40:55 UTC] Database connection successful in index.php
+[13-Apr-2025 13:40:55 UTC] Database error in featured movies section: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[13-Apr-2025 13:40:55 UTC] Database error in categories section: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[13-Apr-2025 13:41:25 UTC] Database connection successful
+[13-Apr-2025 13:41:29 UTC] Database connection successful
+[13-Apr-2025 13:41:29 UTC] Database connection successful in index.php
+[13-Apr-2025 13:41:29 UTC] Database error in featured movies section: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[13-Apr-2025 13:41:29 UTC] Database error in categories section: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[13-Apr-2025 13:41:34 UTC] Database connection successful
+[13-Apr-2025 13:41:34 UTC] Database connection successful in index.php
+[13-Apr-2025 13:41:34 UTC] Database error in featured movies section: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[13-Apr-2025 13:41:34 UTC] Database error in categories section: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[13-Apr-2025 13:41:36 UTC] Database connection successful
+[13-Apr-2025 13:41:36 UTC] PHP Warning:  Undefined variable $pdo in /var/www/html/profile.php on line 19
+[13-Apr-2025 13:41:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /var/www/html/profile.php:19
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/profile.php on line 19
+[13-Apr-2025 13:41:38 UTC] Database connection successful
+[13-Apr-2025 13:41:38 UTC] Database connection successful in index.php
+[13-Apr-2025 13:41:38 UTC] Database error in featured movies section: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[13-Apr-2025 13:41:38 UTC] Database error in categories section: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[13-Apr-2025 13:43:32 UTC] Database connection successful
+[13-Apr-2025 13:43:32 UTC] Database connection successful in index.php
+[13-Apr-2025 13:43:32 UTC] Database error in latest movies section: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[13-Apr-2025 13:43:32 UTC] Database error in popular movies section: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[13-Apr-2025 13:43:32 UTC] Database error in categories section: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[13-Apr-2025 13:44:55 UTC] Database connection failed: SQLSTATE[HY000] [2002] No such file or directory
+[13-Apr-2025 13:45:00 UTC] Database connection successful
+[13-Apr-2025 13:45:00 UTC] Database connection successful in index.php
+[13-Apr-2025 13:45:00 UTC] Database error in latest movies section: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[13-Apr-2025 13:45:00 UTC] Database error in popular movies section: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[13-Apr-2025 13:45:00 UTC] Database error in categories section: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[13-Apr-2025 13:46:35 UTC] Database connection successful
+[13-Apr-2025 13:46:35 UTC] Database connection successful in index.php
+[13-Apr-2025 13:46:35 UTC] Database error in categories section: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'display_order' in 'order clause'
+[13-Apr-2025 13:47:49 UTC] Database connection successful
+[13-Apr-2025 13:47:49 UTC] Database connection successful in index.php
+[13-Apr-2025 13:47:49 UTC] Database error in categories section: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'display_order' in 'order clause'
+[13-Apr-2025 13:47:59 UTC] Database connection successful
+[13-Apr-2025 13:47:59 UTC] Database connection successful in index.php
+[13-Apr-2025 13:47:59 UTC] Database error in categories section: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'display_order' in 'order clause'
+[13-Apr-2025 13:48:05 UTC] Database connection successful
+[13-Apr-2025 13:48:05 UTC] Database connection successful in index.php
+[13-Apr-2025 13:48:05 UTC] Database error in categories section: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'display_order' in 'order clause'
+[13-Apr-2025 13:49:37 UTC] Database connection successful
+[13-Apr-2025 13:49:37 UTC] Database connection successful in index.php
+[13-Apr-2025 13:49:37 UTC] Database error in categories section: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'display_order' in 'order clause'
+[13-Apr-2025 13:50:27 UTC] Database connection successful
+[13-Apr-2025 13:50:27 UTC] Database connection successful in index.php
+[13-Apr-2025 13:50:28 UTC] Database connection successful
+[13-Apr-2025 13:50:28 UTC] Database connection successful in index.php
+[13-Apr-2025 13:50:42 UTC] Database connection successful
+[13-Apr-2025 13:50:42 UTC] Database connection successful in index.php
+[13-Apr-2025 13:50:54 UTC] Database connection successful
+[13-Apr-2025 13:50:54 UTC] Database connection successful in index.php
+[13-Apr-2025 13:50:54 UTC] Database error in latest movies section: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[13-Apr-2025 13:50:54 UTC] Database error in popular movies section: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[13-Apr-2025 13:50:54 UTC] Database error in categories section: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 13:51:04 UTC] Database connection successful
+[13-Apr-2025 13:51:04 UTC] Database connection successful in index.php
+[13-Apr-2025 13:51:04 UTC] Database error in latest movies section: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[13-Apr-2025 13:51:04 UTC] Database error in popular movies section: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[13-Apr-2025 13:51:04 UTC] Database error in categories section: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 13:52:17 UTC] Database connection successful
+[13-Apr-2025 13:52:17 UTC] Database connection successful in index.php
+[13-Apr-2025 13:52:17 UTC] Database error in categories section: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'display_order' in 'order clause'
+[13-Apr-2025 13:53:14 UTC] Database connection successful
+[13-Apr-2025 13:53:14 UTC] Database connection successful in index.php
+[13-Apr-2025 13:54:24 UTC] Database connection successful
+[13-Apr-2025 13:54:24 UTC] Database connection successful in index.php
+[13-Apr-2025 13:55:11 UTC] Database connection successful
+[13-Apr-2025 13:55:11 UTC] Database connection successful in index.php
+[13-Apr-2025 13:55:20 UTC] Database connection successful
+[13-Apr-2025 13:55:20 UTC] Database connection successful in index.php
+[13-Apr-2025 13:55:33 UTC] Database connection successful
+[13-Apr-2025 13:55:35 UTC] Database connection successful
+[13-Apr-2025 13:55:35 UTC] Database connection successful in index.php
+[13-Apr-2025 13:57:42 UTC] Database connection successful
+[13-Apr-2025 13:57:42 UTC] Database connection successful in index.php
+[13-Apr-2025 13:57:42 UTC] Database error in categories section: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 13:57:47 UTC] Database connection successful
+[13-Apr-2025 13:57:47 UTC] Database connection successful in index.php
+[13-Apr-2025 13:57:47 UTC] Database error in categories section: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 13:57:57 UTC] Database connection successful
+[13-Apr-2025 13:57:57 UTC] Database connection successful in index.php
+[13-Apr-2025 14:00:33 UTC] Database connection successful
+[13-Apr-2025 14:00:33 UTC] Database connection successful in index.php
+[13-Apr-2025 14:00:34 UTC] Database connection successful
+[13-Apr-2025 14:00:34 UTC] Database connection successful in index.php
+[13-Apr-2025 14:00:38 UTC] Database connection successful
+[13-Apr-2025 14:00:38 UTC] Database connection successful in index.php
+[13-Apr-2025 14:00:46 UTC] Database connection successful
+[13-Apr-2025 14:00:46 UTC] Database connection successful in index.php
+[13-Apr-2025 14:01:49 UTC] Database connection successful
+[13-Apr-2025 14:01:49 UTC] Database connection successful in index.php
+[13-Apr-2025 14:01:49 UTC] Database error in categories section: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 14:02:00 UTC] Database connection successful
+[13-Apr-2025 14:02:00 UTC] Database connection successful in index.php
+[13-Apr-2025 14:02:00 UTC] Database error in categories section: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 14:02:02 UTC] Database connection successful
+[13-Apr-2025 14:02:02 UTC] Database connection successful in index.php
+[13-Apr-2025 14:02:02 UTC] Database error in categories section: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 14:03:22 UTC] Database connection successful
+[13-Apr-2025 14:03:22 UTC] Database connection successful in index.php
+[13-Apr-2025 14:03:22 UTC] Database error in categories section: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 14:03:26 UTC] Database connection successful
+[13-Apr-2025 14:03:26 UTC] PHP Warning:  Undefined variable $pdo in /var/www/html/movie.php on line 18
+[13-Apr-2025 14:03:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /var/www/html/movie.php:18
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/movie.php on line 18
+[13-Apr-2025 14:03:28 UTC] Database connection successful
+[13-Apr-2025 14:03:28 UTC] Database connection successful in index.php
+[13-Apr-2025 14:03:28 UTC] Database error in categories section: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 14:03:37 UTC] Database connection successful
+[13-Apr-2025 14:03:37 UTC] Database connection successful in index.php
+[13-Apr-2025 14:03:37 UTC] Database error in categories section: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 14:03:39 UTC] Database connection successful
+[13-Apr-2025 14:03:39 UTC] Database connection successful in index.php
+[13-Apr-2025 14:03:39 UTC] Database error in categories section: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 14:03:42 UTC] Database connection successful
+[13-Apr-2025 14:03:42 UTC] PHP Warning:  Undefined variable $pdo in /var/www/html/movie.php on line 18
+[13-Apr-2025 14:03:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /var/www/html/movie.php:18
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/movie.php on line 18
+[13-Apr-2025 14:03:54 UTC] Database connection successful
+[13-Apr-2025 14:03:54 UTC] Database connection successful in index.php
+[13-Apr-2025 14:03:54 UTC] Database error in categories section: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 14:03:56 UTC] Database connection successful
+[13-Apr-2025 14:03:56 UTC] PHP Warning:  Undefined variable $pdo in /var/www/html/movie.php on line 18
+[13-Apr-2025 14:03:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /var/www/html/movie.php:18
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/movie.php on line 18
+[13-Apr-2025 14:03:57 UTC] Database connection successful
+[13-Apr-2025 14:03:57 UTC] Database connection successful in index.php
+[13-Apr-2025 14:03:57 UTC] Database error in categories section: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 14:04:00 UTC] Database connection successful
+[13-Apr-2025 14:04:00 UTC] PHP Warning:  Undefined variable $pdo in /var/www/html/movie.php on line 18
+[13-Apr-2025 14:04:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /var/www/html/movie.php:18
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/movie.php on line 18
+[13-Apr-2025 14:04:25 UTC] Database connection successful
+[13-Apr-2025 14:04:25 UTC] Database connection successful in movie.php
+[13-Apr-2025 14:04:25 UTC] Database error in movie.php: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 14:04:26 UTC] Database connection successful
+[13-Apr-2025 14:04:26 UTC] Database connection successful in movie.php
+[13-Apr-2025 14:04:26 UTC] Database error in movie.php: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 14:04:26 UTC] Database connection successful
+[13-Apr-2025 14:04:26 UTC] Database connection successful in index.php
+[13-Apr-2025 14:04:26 UTC] Database error in categories section: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 14:04:27 UTC] Database connection successful
+[13-Apr-2025 14:04:29 UTC] Database connection successful
+[13-Apr-2025 14:04:29 UTC] Database connection successful in index.php
+[13-Apr-2025 14:04:29 UTC] Database error in categories section: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 14:04:32 UTC] Database connection successful
+[13-Apr-2025 14:04:32 UTC] Database connection successful in movie.php
+[13-Apr-2025 14:04:32 UTC] Database error in movie.php: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 14:04:35 UTC] Database connection successful
+[13-Apr-2025 14:04:35 UTC] Database connection successful in index.php
+[13-Apr-2025 14:04:35 UTC] Database error in categories section: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 14:04:53 UTC] Database connection successful
+[13-Apr-2025 14:04:53 UTC] Database connection successful in movie.php
+[13-Apr-2025 14:04:53 UTC] Database error in movie.php: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 14:04:59 UTC] Database connection successful
+[13-Apr-2025 14:04:59 UTC] Database connection successful in index.php
+[13-Apr-2025 14:04:59 UTC] Database error in categories section: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 14:06:00 UTC] Database connection successful
+[13-Apr-2025 14:06:00 UTC] Database connection successful in movie.php
+[13-Apr-2025 14:06:00 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 14:06:00 UTC] PHP Warning:  Undefined array key "genres" in /var/www/html/movie.php on line 309
+[13-Apr-2025 14:06:16 UTC] Database connection successful
+[13-Apr-2025 14:06:16 UTC] Database connection successful in movie.php
+[13-Apr-2025 14:06:16 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 14:06:17 UTC] Database connection successful
+[13-Apr-2025 14:06:17 UTC] Database connection successful in movie.php
+[13-Apr-2025 14:06:17 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 14:06:23 UTC] Database connection successful
+[13-Apr-2025 14:06:23 UTC] Database connection successful in index.php
+[13-Apr-2025 14:06:23 UTC] Database error in categories section: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 14:06:27 UTC] Database connection successful
+[13-Apr-2025 14:06:27 UTC] Database connection successful in index.php
+[13-Apr-2025 14:06:27 UTC] Database error in categories section: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 14:06:29 UTC] Database connection successful
+[13-Apr-2025 14:06:29 UTC] Database connection successful in movie.php
+[13-Apr-2025 14:06:29 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 14:07:41 UTC] Database connection successful
+[13-Apr-2025 14:07:41 UTC] Database connection successful in movie.php
+[13-Apr-2025 14:07:41 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 14:07:50 UTC] Database connection successful
+[13-Apr-2025 14:07:50 UTC] Database connection successful in index.php
+[13-Apr-2025 14:07:50 UTC] Database error in categories section: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 14:08:49 UTC] Database connection successful
+[13-Apr-2025 14:08:49 UTC] Database connection successful in index.php
+[13-Apr-2025 14:09:20 UTC] Database connection successful
+[13-Apr-2025 14:09:20 UTC] Database connection successful in index.php
+[13-Apr-2025 14:09:36 UTC] Database connection successful
+[13-Apr-2025 14:09:36 UTC] Database connection successful in index.php
+[13-Apr-2025 14:09:39 UTC] Database connection successful
+[13-Apr-2025 14:09:39 UTC] Database connection successful in movie.php
+[13-Apr-2025 14:09:39 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 14:09:42 UTC] Database connection successful
+[13-Apr-2025 14:09:43 UTC] Database connection successful
+[13-Apr-2025 14:09:43 UTC] Database connection successful in movie.php
+[13-Apr-2025 14:09:43 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 14:11:49 UTC] Database connection successful
+[13-Apr-2025 14:11:49 UTC] Database connection successful in movie.php
+[13-Apr-2025 14:11:49 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 14:11:50 UTC] Database connection successful
+[13-Apr-2025 14:11:50 UTC] Database connection successful in movie.php
+[13-Apr-2025 14:11:50 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 14:11:51 UTC] Database connection successful
+[13-Apr-2025 14:11:51 UTC] Database connection successful
+[13-Apr-2025 14:11:51 UTC] Database connection successful in movie.php
+[13-Apr-2025 14:11:51 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 14:11:58 UTC] Database connection successful
+[13-Apr-2025 14:12:00 UTC] Database connection successful
+[13-Apr-2025 14:12:00 UTC] Database connection successful in movie.php
+[13-Apr-2025 14:12:00 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 14:12:03 UTC] Database connection successful
+[13-Apr-2025 14:12:03 UTC] Database connection successful in index.php
+[13-Apr-2025 14:12:26 UTC] Database connection successful
+[13-Apr-2025 14:12:26 UTC] Database connection successful in movie.php
+[13-Apr-2025 14:12:26 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 14:12:28 UTC] Database connection successful
+[13-Apr-2025 14:12:28 UTC] Database connection successful in index.php
+[13-Apr-2025 14:12:30 UTC] Database connection successful
+[13-Apr-2025 14:12:30 UTC] Database connection successful in movie.php
+[13-Apr-2025 14:12:30 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 14:12:32 UTC] Database connection successful
+[13-Apr-2025 14:12:32 UTC] Database connection successful
+[13-Apr-2025 14:12:32 UTC] Database connection successful in movie.php
+[13-Apr-2025 14:12:32 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 14:12:42 UTC] Database connection successful
+[13-Apr-2025 14:12:44 UTC] Database connection successful
+[13-Apr-2025 14:12:44 UTC] Database connection successful in movie.php
+[13-Apr-2025 14:12:44 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 14:48:05 UTC] Database connection successful
+[13-Apr-2025 14:48:05 UTC] Database connection successful in movie.php
+[13-Apr-2025 14:48:05 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 14:48:07 UTC] Database connection successful
+[13-Apr-2025 14:48:07 UTC] Database connection successful
+[13-Apr-2025 14:48:07 UTC] PHP Warning:  Trying to access array offset on value of type int in /var/www/html/checkout.php on line 82
+[13-Apr-2025 14:48:07 UTC] PHP Warning:  Trying to access array offset on value of type int in /var/www/html/checkout.php on line 82
+[13-Apr-2025 14:48:07 UTC] PHP Warning:  Trying to access array offset on value of type int in /var/www/html/checkout.php on line 645
+[13-Apr-2025 14:48:07 UTC] PHP Warning:  Trying to access array offset on value of type int in /var/www/html/checkout.php on line 648
+[13-Apr-2025 14:48:07 UTC] PHP Warning:  Trying to access array offset on value of type int in /var/www/html/checkout.php on line 649
+[13-Apr-2025 14:48:07 UTC] PHP Warning:  Trying to access array offset on value of type int in /var/www/html/checkout.php on line 650
+[13-Apr-2025 14:48:11 UTC] Database connection successful
+[13-Apr-2025 14:48:11 UTC] PHP Warning:  Trying to access array offset on value of type int in /var/www/html/checkout.php on line 58
+[13-Apr-2025 14:48:11 UTC] PHP Warning:  Trying to access array offset on value of type int in /var/www/html/checkout.php on line 58
+[13-Apr-2025 14:48:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/checkout.php:58) in /var/www/html/checkout.php on line 71
+[13-Apr-2025 14:48:15 UTC] Database connection successful
+[13-Apr-2025 14:48:17 UTC] Database connection successful
+[13-Apr-2025 14:48:17 UTC] Database connection successful in movie.php
+[13-Apr-2025 14:48:17 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 14:48:19 UTC] Database connection successful
+[13-Apr-2025 14:48:19 UTC] Database connection successful in index.php
+[13-Apr-2025 14:48:37 UTC] Database connection successful
+[13-Apr-2025 14:48:37 UTC] Database connection successful in movie.php
+[13-Apr-2025 14:48:37 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 14:48:38 UTC] Database connection successful
+[13-Apr-2025 14:48:38 UTC] Database connection successful
+[13-Apr-2025 14:48:38 UTC] PHP Warning:  Trying to access array offset on value of type int in /var/www/html/checkout.php on line 82
+[13-Apr-2025 14:48:38 UTC] PHP Warning:  Trying to access array offset on value of type int in /var/www/html/checkout.php on line 82
+[13-Apr-2025 14:48:38 UTC] PHP Warning:  Trying to access array offset on value of type int in /var/www/html/checkout.php on line 645
+[13-Apr-2025 14:48:38 UTC] PHP Warning:  Trying to access array offset on value of type int in /var/www/html/checkout.php on line 648
+[13-Apr-2025 14:48:38 UTC] PHP Warning:  Trying to access array offset on value of type int in /var/www/html/checkout.php on line 649
+[13-Apr-2025 14:48:38 UTC] PHP Warning:  Trying to access array offset on value of type int in /var/www/html/checkout.php on line 650
+[13-Apr-2025 14:48:52 UTC] Database connection successful
+[13-Apr-2025 14:48:52 UTC] PHP Warning:  Trying to access array offset on value of type int in /var/www/html/checkout.php on line 58
+[13-Apr-2025 14:48:52 UTC] PHP Warning:  Trying to access array offset on value of type int in /var/www/html/checkout.php on line 58
+[13-Apr-2025 14:48:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/checkout.php:58) in /var/www/html/checkout.php on line 71
+[13-Apr-2025 14:48:54 UTC] Database connection successful
+[13-Apr-2025 14:48:55 UTC] Database connection successful
+[13-Apr-2025 14:48:55 UTC] Database connection successful in movie.php
+[13-Apr-2025 14:48:55 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 14:49:01 UTC] Database connection successful
+[13-Apr-2025 14:49:01 UTC] Database connection successful in index.php
+[13-Apr-2025 14:49:03 UTC] Database connection successful
+[13-Apr-2025 14:49:03 UTC] Database connection successful in movie.php
+[13-Apr-2025 14:49:03 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 14:49:04 UTC] Database connection successful
+[13-Apr-2025 14:49:04 UTC] Database connection successful
+[13-Apr-2025 14:49:04 UTC] PHP Warning:  Trying to access array offset on value of type int in /var/www/html/checkout.php on line 82
+[13-Apr-2025 14:49:04 UTC] PHP Warning:  Trying to access array offset on value of type int in /var/www/html/checkout.php on line 82
+[13-Apr-2025 14:49:04 UTC] PHP Warning:  Trying to access array offset on value of type int in /var/www/html/checkout.php on line 645
+[13-Apr-2025 14:49:04 UTC] PHP Warning:  Trying to access array offset on value of type int in /var/www/html/checkout.php on line 648
+[13-Apr-2025 14:49:04 UTC] PHP Warning:  Trying to access array offset on value of type int in /var/www/html/checkout.php on line 649
+[13-Apr-2025 14:49:04 UTC] PHP Warning:  Trying to access array offset on value of type int in /var/www/html/checkout.php on line 650
+[13-Apr-2025 14:49:52 UTC] Database connection successful
+[13-Apr-2025 14:49:52 UTC] Error fetching movie details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'thumbnail' in 'field list'
+[13-Apr-2025 14:50:01 UTC] Database connection successful
+[13-Apr-2025 14:50:01 UTC] PHP Warning:  Trying to access array offset on value of type int in /var/www/html/checkout.php on line 58
+[13-Apr-2025 14:50:01 UTC] PHP Warning:  Trying to access array offset on value of type int in /var/www/html/checkout.php on line 58
+[13-Apr-2025 14:50:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/checkout.php:58) in /var/www/html/checkout.php on line 71
+[13-Apr-2025 14:50:03 UTC] Database connection successful
+[13-Apr-2025 14:50:04 UTC] Database connection successful
+[13-Apr-2025 14:50:04 UTC] Database connection successful in movie.php
+[13-Apr-2025 14:50:04 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 14:50:07 UTC] Database connection successful
+[13-Apr-2025 14:50:07 UTC] Database connection successful
+[13-Apr-2025 14:50:07 UTC] Error fetching movie details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'thumbnail' in 'field list'
+[13-Apr-2025 14:50:19 UTC] Database connection successful
+[13-Apr-2025 14:50:19 UTC] PHP Warning:  Trying to access array offset on value of type int in /var/www/html/checkout.php on line 58
+[13-Apr-2025 14:50:19 UTC] PHP Warning:  Trying to access array offset on value of type int in /var/www/html/checkout.php on line 58
+[13-Apr-2025 14:50:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/checkout.php:58) in /var/www/html/checkout.php on line 71
+[13-Apr-2025 14:50:54 UTC] Database connection successful
+[13-Apr-2025 14:50:56 UTC] Database connection successful
+[13-Apr-2025 14:50:57 UTC] Database connection successful
+[13-Apr-2025 14:50:57 UTC] Database connection successful in movie.php
+[13-Apr-2025 14:50:57 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 14:50:58 UTC] Database connection successful
+[13-Apr-2025 14:50:58 UTC] Database connection successful
+[13-Apr-2025 14:50:58 UTC] Error fetching movie details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'thumbnail' in 'field list'
+[13-Apr-2025 14:51:00 UTC] Database connection successful
+[13-Apr-2025 14:51:00 UTC] Database connection successful
+[13-Apr-2025 14:51:00 UTC] Database connection successful
+[13-Apr-2025 14:51:00 UTC] Database connection successful in index.php
+[13-Apr-2025 14:51:03 UTC] Database connection successful
+[13-Apr-2025 14:51:03 UTC] Database connection successful in movie.php
+[13-Apr-2025 14:51:03 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 14:51:04 UTC] Database connection successful
+[13-Apr-2025 14:51:04 UTC] Database connection successful
+[13-Apr-2025 14:51:04 UTC] Error fetching movie details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'thumbnail' in 'field list'
+[13-Apr-2025 14:51:07 UTC] Database connection successful
+[13-Apr-2025 14:51:07 UTC] Database connection successful
+[13-Apr-2025 14:51:08 UTC] Database connection successful
+[13-Apr-2025 14:51:08 UTC] Database connection successful in index.php
+[13-Apr-2025 14:51:42 UTC] Database connection successful
+[13-Apr-2025 14:51:42 UTC] Database connection successful in movie.php
+[13-Apr-2025 14:51:42 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 14:51:45 UTC] Database connection successful
+[13-Apr-2025 14:51:45 UTC] Database connection successful
+[13-Apr-2025 14:51:45 UTC] Database connection successful in movie.php
+[13-Apr-2025 14:51:45 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 14:51:48 UTC] Database connection successful
+[13-Apr-2025 14:51:48 UTC] Database connection successful
+[13-Apr-2025 14:51:48 UTC] Error fetching movie details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'thumbnail' in 'field list'
+[13-Apr-2025 14:51:51 UTC] Database connection successful
+[13-Apr-2025 14:51:51 UTC] PHP Warning:  Trying to access array offset on value of type int in /var/www/html/checkout.php on line 58
+[13-Apr-2025 14:51:51 UTC] PHP Warning:  Trying to access array offset on value of type int in /var/www/html/checkout.php on line 58
+[13-Apr-2025 14:51:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/checkout.php:58) in /var/www/html/checkout.php on line 71
+[13-Apr-2025 14:52:21 UTC] Database connection successful
+[13-Apr-2025 14:52:22 UTC] Database connection successful
+[13-Apr-2025 14:52:23 UTC] Database connection successful
+[13-Apr-2025 14:52:23 UTC] Database connection successful in movie.php
+[13-Apr-2025 14:52:23 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 14:52:24 UTC] Database connection successful
+[13-Apr-2025 14:52:24 UTC] Database connection successful
+[13-Apr-2025 14:52:24 UTC] Error fetching movie details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'thumbnail' in 'field list'
+[13-Apr-2025 14:52:26 UTC] Database connection successful
+[13-Apr-2025 14:52:26 UTC] Database connection successful
+[13-Apr-2025 14:52:26 UTC] Database connection successful
+[13-Apr-2025 14:52:26 UTC] Database connection successful in index.php
+[13-Apr-2025 14:52:32 UTC] Database connection successful
+[13-Apr-2025 14:52:32 UTC] Database connection successful in movie.php
+[13-Apr-2025 14:52:32 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 14:52:33 UTC] Database connection successful
+[13-Apr-2025 14:52:33 UTC] Database connection successful
+[13-Apr-2025 14:52:33 UTC] Error fetching movie details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'thumbnail' in 'field list'
+[13-Apr-2025 14:53:39 UTC] Database connection successful
+[13-Apr-2025 14:53:40 UTC] Database connection successful in index.php
+[13-Apr-2025 14:53:45 UTC] Database connection successful
+[13-Apr-2025 14:53:45 UTC] Database connection successful in index.php
+[13-Apr-2025 14:54:19 UTC] Database connection successful
+[13-Apr-2025 14:54:19 UTC] Database connection successful in movie.php
+[13-Apr-2025 14:54:19 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 14:54:20 UTC] Database connection successful
+[13-Apr-2025 14:54:20 UTC] Database connection successful
+[13-Apr-2025 14:54:20 UTC] Error fetching movie details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'thumbnail' in 'field list'
+[13-Apr-2025 14:54:22 UTC] Database connection successful
+[13-Apr-2025 14:54:22 UTC] Database connection successful
+[13-Apr-2025 14:54:22 UTC] Error fetching order details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.thumbnail' in 'field list'
+[13-Apr-2025 14:54:22 UTC] Database connection successful
+[13-Apr-2025 14:54:22 UTC] Database connection successful in index.php
+[13-Apr-2025 14:54:51 UTC] Database connection successful
+[13-Apr-2025 14:54:51 UTC] Database connection successful in movie.php
+[13-Apr-2025 14:54:51 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 14:55:02 UTC] Database connection successful
+[13-Apr-2025 14:55:02 UTC] Database connection successful
+[13-Apr-2025 14:55:02 UTC] Error fetching movie details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'thumbnail' in 'field list'
+[13-Apr-2025 14:55:04 UTC] Database connection successful
+[13-Apr-2025 14:55:04 UTC] Database connection successful
+[13-Apr-2025 14:55:04 UTC] Error fetching order details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.thumbnail' in 'field list'
+[13-Apr-2025 14:55:04 UTC] Database connection successful
+[13-Apr-2025 14:55:04 UTC] Database connection successful in index.php
+[13-Apr-2025 14:55:20 UTC] Database connection successful
+[13-Apr-2025 14:55:20 UTC] Database connection successful in movie.php
+[13-Apr-2025 14:55:20 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 14:55:22 UTC] Database connection successful
+[13-Apr-2025 14:55:22 UTC] Database connection successful
+[13-Apr-2025 14:55:22 UTC] Error fetching movie details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'thumbnail' in 'field list'
+[13-Apr-2025 14:55:25 UTC] Database connection successful
+[13-Apr-2025 14:55:25 UTC] Database connection successful
+[13-Apr-2025 14:55:25 UTC] Error fetching order details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.thumbnail' in 'field list'
+[13-Apr-2025 14:55:25 UTC] Database connection successful
+[13-Apr-2025 14:55:25 UTC] Database connection successful in index.php
+[13-Apr-2025 14:55:57 UTC] Database connection successful
+[13-Apr-2025 14:56:23 UTC] Database connection successful
+[13-Apr-2025 14:56:23 UTC] Database connection successful in index.php
+[13-Apr-2025 14:56:26 UTC] Database connection successful
+[13-Apr-2025 14:56:26 UTC] Database connection successful in movie.php
+[13-Apr-2025 14:56:26 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 14:57:00 UTC] Database connection successful
+[13-Apr-2025 14:57:00 UTC] Database connection successful in movie.php
+[13-Apr-2025 14:57:00 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 14:57:02 UTC] Database connection successful
+[13-Apr-2025 14:57:02 UTC] Database connection successful
+[13-Apr-2025 14:57:02 UTC] Error fetching movie details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'thumbnail' in 'field list'
+[13-Apr-2025 14:57:05 UTC] Database connection successful
+[13-Apr-2025 14:57:05 UTC] Database connection successful
+[13-Apr-2025 14:57:05 UTC] Error fetching order details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.thumbnail' in 'field list'
+[13-Apr-2025 14:57:05 UTC] Database connection successful
+[13-Apr-2025 14:57:05 UTC] Database connection successful in index.php
+[13-Apr-2025 14:57:08 UTC] Database connection successful
+[13-Apr-2025 14:57:10 UTC] Database connection successful
+[13-Apr-2025 14:57:10 UTC] Database connection successful in index.php
+[13-Apr-2025 14:57:17 UTC] Database connection successful
+[13-Apr-2025 14:57:17 UTC] Database connection successful in index.php
+[13-Apr-2025 14:57:23 UTC] Database connection successful
+[13-Apr-2025 14:57:23 UTC] Database connection successful in index.php
+[13-Apr-2025 14:57:27 UTC] Database connection successful
+[13-Apr-2025 14:57:27 UTC] Database connection successful in index.php
+[13-Apr-2025 14:58:54 UTC] Database connection successful
+[13-Apr-2025 14:58:54 UTC] Database connection successful in index.php
+[13-Apr-2025 14:59:19 UTC] Database connection successful
+[13-Apr-2025 14:59:19 UTC] Database connection successful in index.php
+[13-Apr-2025 14:59:22 UTC] Database connection successful
+[13-Apr-2025 14:59:22 UTC] Database connection successful in movie.php
+[13-Apr-2025 14:59:22 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 14:59:26 UTC] Database connection successful
+[13-Apr-2025 14:59:27 UTC] Database connection successful
+[13-Apr-2025 14:59:27 UTC] Database connection successful in movie.php
+[13-Apr-2025 14:59:27 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 14:59:29 UTC] Database connection successful
+[13-Apr-2025 14:59:30 UTC] Database connection successful
+[13-Apr-2025 14:59:30 UTC] Database connection successful in movie.php
+[13-Apr-2025 14:59:30 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 14:59:31 UTC] Database connection successful
+[13-Apr-2025 14:59:31 UTC] Database connection successful
+[13-Apr-2025 14:59:31 UTC] Error fetching movie details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'thumbnail' in 'field list'
+[13-Apr-2025 14:59:33 UTC] Database connection successful
+[13-Apr-2025 14:59:33 UTC] Database connection successful
+[13-Apr-2025 14:59:33 UTC] Error fetching order details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.thumbnail' in 'field list'
+[13-Apr-2025 14:59:33 UTC] Database connection successful
+[13-Apr-2025 14:59:33 UTC] Database connection successful in index.php
+[13-Apr-2025 15:01:03 UTC] Database connection successful
+[13-Apr-2025 15:01:03 UTC] Database connection successful in index.php
+[13-Apr-2025 15:01:40 UTC] Database connection successful
+[13-Apr-2025 15:01:40 UTC] Database connection successful in index.php
+[13-Apr-2025 15:01:40 UTC] Movie table columns: id, title, description, release_year, duration, rating, price, poster_url, trailer_url, category_id, created_at, updated_at
+[13-Apr-2025 15:01:40 UTC] Movie data: Array
+(
+    [id] => 1
+    [title] => The Shawshank Redemption
+    [description] => Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+    [release_year] => 1994
+    [duration] => 142
+    [rating] => 9.3
+    [price] => 9.99
+    [poster_url] => shawshank.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:01:40 UTC] Movie data: Array
+(
+    [id] => 2
+    [title] => The Godfather
+    [description] => The aging patriarch of an organized crime dynasty transfers control to his son, who expands the family business.
+    [release_year] => 1972
+    [duration] => 175
+    [rating] => 9.2
+    [price] => 12.99
+    [poster_url] => godfather.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:01:40 UTC] Movie data: Array
+(
+    [id] => 3
+    [title] => The Lord of the Rings: The Fellowship of the Ring
+    [description] => A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring.
+    [release_year] => 2001
+    [duration] => 178
+    [rating] => 8.8
+    [price] => 14.99
+    [poster_url] => lotr.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:01:40 UTC] Movie data: Array
+(
+    [id] => 4
+    [title] => Goodfellas
+    [description] => The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito.
+    [release_year] => 1990
+    [duration] => 146
+    [rating] => 8.7
+    [price] => 11.99
+    [poster_url] => goodfellas.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:01:40 UTC] Movie data: Array
+(
+    [id] => 5
+    [title] => The Silence of the Lambs
+    [description] => A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer.
+    [release_year] => 1991
+    [duration] => 118
+    [rating] => 8.6
+    [price] => 10.99
+    [poster_url] => silence_lambs.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:01:40 UTC] Movie data: Array
+(
+    [id] => 6
+    [title] => The Avengers
+    [description] => Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.
+    [release_year] => 2012
+    [duration] => 143
+    [rating] => 8.0
+    [price] => 13.99
+    [poster_url] => avengers.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:01:46 UTC] Database connection successful
+[13-Apr-2025 15:01:46 UTC] Database connection successful in index.php
+[13-Apr-2025 15:01:46 UTC] Movie table columns: id, title, description, release_year, duration, rating, price, poster_url, trailer_url, category_id, created_at, updated_at
+[13-Apr-2025 15:01:46 UTC] Movie data: Array
+(
+    [id] => 1
+    [title] => The Shawshank Redemption
+    [description] => Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+    [release_year] => 1994
+    [duration] => 142
+    [rating] => 9.3
+    [price] => 9.99
+    [poster_url] => shawshank.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:01:46 UTC] Movie data: Array
+(
+    [id] => 2
+    [title] => The Godfather
+    [description] => The aging patriarch of an organized crime dynasty transfers control to his son, who expands the family business.
+    [release_year] => 1972
+    [duration] => 175
+    [rating] => 9.2
+    [price] => 12.99
+    [poster_url] => godfather.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:01:46 UTC] Movie data: Array
+(
+    [id] => 3
+    [title] => The Lord of the Rings: The Fellowship of the Ring
+    [description] => A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring.
+    [release_year] => 2001
+    [duration] => 178
+    [rating] => 8.8
+    [price] => 14.99
+    [poster_url] => lotr.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:01:46 UTC] Movie data: Array
+(
+    [id] => 4
+    [title] => Goodfellas
+    [description] => The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito.
+    [release_year] => 1990
+    [duration] => 146
+    [rating] => 8.7
+    [price] => 11.99
+    [poster_url] => goodfellas.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:01:46 UTC] Movie data: Array
+(
+    [id] => 5
+    [title] => The Silence of the Lambs
+    [description] => A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer.
+    [release_year] => 1991
+    [duration] => 118
+    [rating] => 8.6
+    [price] => 10.99
+    [poster_url] => silence_lambs.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:01:46 UTC] Movie data: Array
+(
+    [id] => 6
+    [title] => The Avengers
+    [description] => Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.
+    [release_year] => 2012
+    [duration] => 143
+    [rating] => 8.0
+    [price] => 13.99
+    [poster_url] => avengers.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:02:32 UTC] Database connection successful
+[13-Apr-2025 15:02:32 UTC] Database connection successful in index.php
+[13-Apr-2025 15:02:32 UTC] Movie table columns: id, title, description, release_year, duration, rating, price, poster_url, trailer_url, category_id, created_at, updated_at
+[13-Apr-2025 15:02:32 UTC] Movie data: Array
+(
+    [id] => 1
+    [title] => The Shawshank Redemption
+    [description] => Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+    [release_year] => 1994
+    [duration] => 142
+    [rating] => 9.3
+    [price] => 9.99
+    [poster_url] => shawshank.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:02:32 UTC] Movie data: Array
+(
+    [id] => 2
+    [title] => The Godfather
+    [description] => The aging patriarch of an organized crime dynasty transfers control to his son, who expands the family business.
+    [release_year] => 1972
+    [duration] => 175
+    [rating] => 9.2
+    [price] => 12.99
+    [poster_url] => godfather.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:02:32 UTC] Movie data: Array
+(
+    [id] => 3
+    [title] => The Lord of the Rings: The Fellowship of the Ring
+    [description] => A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring.
+    [release_year] => 2001
+    [duration] => 178
+    [rating] => 8.8
+    [price] => 14.99
+    [poster_url] => lotr.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:02:32 UTC] Movie data: Array
+(
+    [id] => 4
+    [title] => Goodfellas
+    [description] => The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito.
+    [release_year] => 1990
+    [duration] => 146
+    [rating] => 8.7
+    [price] => 11.99
+    [poster_url] => goodfellas.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:02:32 UTC] Movie data: Array
+(
+    [id] => 5
+    [title] => The Silence of the Lambs
+    [description] => A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer.
+    [release_year] => 1991
+    [duration] => 118
+    [rating] => 8.6
+    [price] => 10.99
+    [poster_url] => silence_lambs.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:02:32 UTC] Movie data: Array
+(
+    [id] => 6
+    [title] => The Avengers
+    [description] => Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.
+    [release_year] => 2012
+    [duration] => 143
+    [rating] => 8.0
+    [price] => 13.99
+    [poster_url] => avengers.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:02:32 UTC] Movie data: Array
+(
+    [id] => 7
+    [title] => The Hangover
+    [description] => Three friends wake up from a bachelor party in Las Vegas, with no memory of the previous night and the bachelor missing.
+    [release_year] => 2009
+    [duration] => 100
+    [rating] => 7.7
+    [price] => 9.99
+    [poster_url] => hangover.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:02:32 UTC] Movie data: Array
+(
+    [id] => 8
+    [title] => The Exorcist
+    [description] => When a teenage girl is possessed by a mysterious entity, her mother seek the help of two priests to save her daughter.
+    [release_year] => 1973
+    [duration] => 122
+    [rating] => 8.0
+    [price] => 10.99
+    [poster_url] => exorcist.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:04:04 UTC] Database connection successful
+[13-Apr-2025 15:04:04 UTC] Database connection successful in index.php
+[13-Apr-2025 15:04:04 UTC] Movie table columns: id, title, description, release_year, duration, rating, price, poster_url, trailer_url, category_id, created_at, updated_at
+[13-Apr-2025 15:04:04 UTC] Movie data: Array
+(
+    [id] => 1
+    [title] => The Shawshank Redemption
+    [description] => Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+    [release_year] => 1994
+    [duration] => 142
+    [rating] => 9.3
+    [price] => 9.99
+    [poster_url] => shawshank.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:04:04 UTC] Movie data: Array
+(
+    [id] => 2
+    [title] => The Godfather
+    [description] => The aging patriarch of an organized crime dynasty transfers control to his son, who expands the family business.
+    [release_year] => 1972
+    [duration] => 175
+    [rating] => 9.2
+    [price] => 12.99
+    [poster_url] => godfather.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:04:04 UTC] Movie data: Array
+(
+    [id] => 3
+    [title] => The Lord of the Rings: The Fellowship of the Ring
+    [description] => A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring.
+    [release_year] => 2001
+    [duration] => 178
+    [rating] => 8.8
+    [price] => 14.99
+    [poster_url] => lotr.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:04:04 UTC] Movie data: Array
+(
+    [id] => 4
+    [title] => Goodfellas
+    [description] => The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito.
+    [release_year] => 1990
+    [duration] => 146
+    [rating] => 8.7
+    [price] => 11.99
+    [poster_url] => goodfellas.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:04:04 UTC] Movie data: Array
+(
+    [id] => 5
+    [title] => The Silence of the Lambs
+    [description] => A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer.
+    [release_year] => 1991
+    [duration] => 118
+    [rating] => 8.6
+    [price] => 10.99
+    [poster_url] => silence_lambs.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:04:04 UTC] Movie data: Array
+(
+    [id] => 6
+    [title] => The Avengers
+    [description] => Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.
+    [release_year] => 2012
+    [duration] => 143
+    [rating] => 8.0
+    [price] => 13.99
+    [poster_url] => avengers.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:04:04 UTC] Movie data: Array
+(
+    [id] => 7
+    [title] => The Hangover
+    [description] => Three friends wake up from a bachelor party in Las Vegas, with no memory of the previous night and the bachelor missing.
+    [release_year] => 2009
+    [duration] => 100
+    [rating] => 7.7
+    [price] => 9.99
+    [poster_url] => hangover.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:04:04 UTC] Movie data: Array
+(
+    [id] => 8
+    [title] => The Exorcist
+    [description] => When a teenage girl is possessed by a mysterious entity, her mother seek the help of two priests to save her daughter.
+    [release_year] => 1973
+    [duration] => 122
+    [rating] => 8.0
+    [price] => 10.99
+    [poster_url] => exorcist.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:04:17 UTC] Database connection successful
+[13-Apr-2025 15:04:17 UTC] Database connection successful in movie.php
+[13-Apr-2025 15:04:17 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 15:04:20 UTC] Database connection successful
+[13-Apr-2025 15:04:20 UTC] Database connection successful
+[13-Apr-2025 15:04:20 UTC] Error fetching movie details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'thumbnail' in 'field list'
+[13-Apr-2025 15:04:22 UTC] Database connection successful
+[13-Apr-2025 15:04:22 UTC] Database connection successful
+[13-Apr-2025 15:04:22 UTC] Error fetching order details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.thumbnail' in 'field list'
+[13-Apr-2025 15:04:22 UTC] Database connection successful
+[13-Apr-2025 15:04:22 UTC] Database connection successful in index.php
+[13-Apr-2025 15:04:22 UTC] Movie table columns: id, title, description, release_year, duration, rating, price, poster_url, trailer_url, category_id, created_at, updated_at
+[13-Apr-2025 15:04:22 UTC] Movie data: Array
+(
+    [id] => 1
+    [title] => The Shawshank Redemption
+    [description] => Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+    [release_year] => 1994
+    [duration] => 142
+    [rating] => 9.3
+    [price] => 9.99
+    [poster_url] => shawshank.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:04:22 UTC] Movie data: Array
+(
+    [id] => 2
+    [title] => The Godfather
+    [description] => The aging patriarch of an organized crime dynasty transfers control to his son, who expands the family business.
+    [release_year] => 1972
+    [duration] => 175
+    [rating] => 9.2
+    [price] => 12.99
+    [poster_url] => godfather.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:04:22 UTC] Movie data: Array
+(
+    [id] => 3
+    [title] => The Lord of the Rings: The Fellowship of the Ring
+    [description] => A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring.
+    [release_year] => 2001
+    [duration] => 178
+    [rating] => 8.8
+    [price] => 14.99
+    [poster_url] => lotr.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:04:22 UTC] Movie data: Array
+(
+    [id] => 4
+    [title] => Goodfellas
+    [description] => The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito.
+    [release_year] => 1990
+    [duration] => 146
+    [rating] => 8.7
+    [price] => 11.99
+    [poster_url] => goodfellas.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:04:22 UTC] Movie data: Array
+(
+    [id] => 5
+    [title] => The Silence of the Lambs
+    [description] => A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer.
+    [release_year] => 1991
+    [duration] => 118
+    [rating] => 8.6
+    [price] => 10.99
+    [poster_url] => silence_lambs.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:04:22 UTC] Movie data: Array
+(
+    [id] => 6
+    [title] => The Avengers
+    [description] => Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.
+    [release_year] => 2012
+    [duration] => 143
+    [rating] => 8.0
+    [price] => 13.99
+    [poster_url] => avengers.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:04:22 UTC] Movie data: Array
+(
+    [id] => 7
+    [title] => The Hangover
+    [description] => Three friends wake up from a bachelor party in Las Vegas, with no memory of the previous night and the bachelor missing.
+    [release_year] => 2009
+    [duration] => 100
+    [rating] => 7.7
+    [price] => 9.99
+    [poster_url] => hangover.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:04:22 UTC] Movie data: Array
+(
+    [id] => 8
+    [title] => The Exorcist
+    [description] => When a teenage girl is possessed by a mysterious entity, her mother seek the help of two priests to save her daughter.
+    [release_year] => 1973
+    [duration] => 122
+    [rating] => 8.0
+    [price] => 10.99
+    [poster_url] => exorcist.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:04:25 UTC] Database connection successful
+[13-Apr-2025 15:04:25 UTC] Database connection successful in movie.php
+[13-Apr-2025 15:04:25 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 15:04:27 UTC] Database connection successful
+[13-Apr-2025 15:04:27 UTC] Database connection successful in index.php
+[13-Apr-2025 15:04:27 UTC] Movie table columns: id, title, description, release_year, duration, rating, price, poster_url, trailer_url, category_id, created_at, updated_at
+[13-Apr-2025 15:04:27 UTC] Movie data: Array
+(
+    [id] => 1
+    [title] => The Shawshank Redemption
+    [description] => Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+    [release_year] => 1994
+    [duration] => 142
+    [rating] => 9.3
+    [price] => 9.99
+    [poster_url] => shawshank.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:04:27 UTC] Movie data: Array
+(
+    [id] => 2
+    [title] => The Godfather
+    [description] => The aging patriarch of an organized crime dynasty transfers control to his son, who expands the family business.
+    [release_year] => 1972
+    [duration] => 175
+    [rating] => 9.2
+    [price] => 12.99
+    [poster_url] => godfather.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:04:27 UTC] Movie data: Array
+(
+    [id] => 3
+    [title] => The Lord of the Rings: The Fellowship of the Ring
+    [description] => A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring.
+    [release_year] => 2001
+    [duration] => 178
+    [rating] => 8.8
+    [price] => 14.99
+    [poster_url] => lotr.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:04:27 UTC] Movie data: Array
+(
+    [id] => 4
+    [title] => Goodfellas
+    [description] => The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito.
+    [release_year] => 1990
+    [duration] => 146
+    [rating] => 8.7
+    [price] => 11.99
+    [poster_url] => goodfellas.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:04:27 UTC] Movie data: Array
+(
+    [id] => 5
+    [title] => The Silence of the Lambs
+    [description] => A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer.
+    [release_year] => 1991
+    [duration] => 118
+    [rating] => 8.6
+    [price] => 10.99
+    [poster_url] => silence_lambs.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:04:27 UTC] Movie data: Array
+(
+    [id] => 6
+    [title] => The Avengers
+    [description] => Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.
+    [release_year] => 2012
+    [duration] => 143
+    [rating] => 8.0
+    [price] => 13.99
+    [poster_url] => avengers.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:04:27 UTC] Movie data: Array
+(
+    [id] => 7
+    [title] => The Hangover
+    [description] => Three friends wake up from a bachelor party in Las Vegas, with no memory of the previous night and the bachelor missing.
+    [release_year] => 2009
+    [duration] => 100
+    [rating] => 7.7
+    [price] => 9.99
+    [poster_url] => hangover.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:04:27 UTC] Movie data: Array
+(
+    [id] => 8
+    [title] => The Exorcist
+    [description] => When a teenage girl is possessed by a mysterious entity, her mother seek the help of two priests to save her daughter.
+    [release_year] => 1973
+    [duration] => 122
+    [rating] => 8.0
+    [price] => 10.99
+    [poster_url] => exorcist.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:04:29 UTC] Database connection successful
+[13-Apr-2025 15:04:29 UTC] Database connection successful in movie.php
+[13-Apr-2025 15:04:29 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 15:04:32 UTC] Database connection successful
+[13-Apr-2025 15:04:32 UTC] Database connection successful in index.php
+[13-Apr-2025 15:04:32 UTC] Movie table columns: id, title, description, release_year, duration, rating, price, poster_url, trailer_url, category_id, created_at, updated_at
+[13-Apr-2025 15:04:32 UTC] Movie data: Array
+(
+    [id] => 1
+    [title] => The Shawshank Redemption
+    [description] => Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+    [release_year] => 1994
+    [duration] => 142
+    [rating] => 9.3
+    [price] => 9.99
+    [poster_url] => shawshank.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:04:32 UTC] Movie data: Array
+(
+    [id] => 2
+    [title] => The Godfather
+    [description] => The aging patriarch of an organized crime dynasty transfers control to his son, who expands the family business.
+    [release_year] => 1972
+    [duration] => 175
+    [rating] => 9.2
+    [price] => 12.99
+    [poster_url] => godfather.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:04:32 UTC] Movie data: Array
+(
+    [id] => 3
+    [title] => The Lord of the Rings: The Fellowship of the Ring
+    [description] => A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring.
+    [release_year] => 2001
+    [duration] => 178
+    [rating] => 8.8
+    [price] => 14.99
+    [poster_url] => lotr.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:04:32 UTC] Movie data: Array
+(
+    [id] => 4
+    [title] => Goodfellas
+    [description] => The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito.
+    [release_year] => 1990
+    [duration] => 146
+    [rating] => 8.7
+    [price] => 11.99
+    [poster_url] => goodfellas.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:04:32 UTC] Movie data: Array
+(
+    [id] => 5
+    [title] => The Silence of the Lambs
+    [description] => A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer.
+    [release_year] => 1991
+    [duration] => 118
+    [rating] => 8.6
+    [price] => 10.99
+    [poster_url] => silence_lambs.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:04:32 UTC] Movie data: Array
+(
+    [id] => 6
+    [title] => The Avengers
+    [description] => Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.
+    [release_year] => 2012
+    [duration] => 143
+    [rating] => 8.0
+    [price] => 13.99
+    [poster_url] => avengers.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:04:32 UTC] Movie data: Array
+(
+    [id] => 7
+    [title] => The Hangover
+    [description] => Three friends wake up from a bachelor party in Las Vegas, with no memory of the previous night and the bachelor missing.
+    [release_year] => 2009
+    [duration] => 100
+    [rating] => 7.7
+    [price] => 9.99
+    [poster_url] => hangover.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:04:32 UTC] Movie data: Array
+(
+    [id] => 8
+    [title] => The Exorcist
+    [description] => When a teenage girl is possessed by a mysterious entity, her mother seek the help of two priests to save her daughter.
+    [release_year] => 1973
+    [duration] => 122
+    [rating] => 8.0
+    [price] => 10.99
+    [poster_url] => exorcist.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:08:27 UTC] Database connection successful
+[13-Apr-2025 15:08:27 UTC] Database connection successful in index.php
+[13-Apr-2025 15:08:27 UTC] Movie table columns: id, title, description, release_year, duration, rating, price, poster_url, trailer_url, category_id, created_at, updated_at
+[13-Apr-2025 15:08:27 UTC] Movie data: Array
+(
+    [id] => 1
+    [title] => The Shawshank Redemption
+    [description] => Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+    [release_year] => 1994
+    [duration] => 142
+    [rating] => 9.3
+    [price] => 9.99
+    [poster_url] => shawshank.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:08:27 UTC] Movie data: Array
+(
+    [id] => 2
+    [title] => The Godfather
+    [description] => The aging patriarch of an organized crime dynasty transfers control to his son, who expands the family business.
+    [release_year] => 1972
+    [duration] => 175
+    [rating] => 9.2
+    [price] => 12.99
+    [poster_url] => godfather.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:08:27 UTC] Movie data: Array
+(
+    [id] => 3
+    [title] => The Lord of the Rings: The Fellowship of the Ring
+    [description] => A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring.
+    [release_year] => 2001
+    [duration] => 178
+    [rating] => 8.8
+    [price] => 14.99
+    [poster_url] => lotr.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:08:27 UTC] Movie data: Array
+(
+    [id] => 4
+    [title] => Goodfellas
+    [description] => The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito.
+    [release_year] => 1990
+    [duration] => 146
+    [rating] => 8.7
+    [price] => 11.99
+    [poster_url] => goodfellas.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:08:27 UTC] Movie data: Array
+(
+    [id] => 5
+    [title] => The Silence of the Lambs
+    [description] => A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer.
+    [release_year] => 1991
+    [duration] => 118
+    [rating] => 8.6
+    [price] => 10.99
+    [poster_url] => silence_lambs.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:08:27 UTC] Movie data: Array
+(
+    [id] => 6
+    [title] => The Avengers
+    [description] => Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.
+    [release_year] => 2012
+    [duration] => 143
+    [rating] => 8.0
+    [price] => 13.99
+    [poster_url] => avengers.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:08:27 UTC] Movie data: Array
+(
+    [id] => 7
+    [title] => The Hangover
+    [description] => Three friends wake up from a bachelor party in Las Vegas, with no memory of the previous night and the bachelor missing.
+    [release_year] => 2009
+    [duration] => 100
+    [rating] => 7.7
+    [price] => 9.99
+    [poster_url] => hangover.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:08:27 UTC] Movie data: Array
+(
+    [id] => 8
+    [title] => The Exorcist
+    [description] => When a teenage girl is possessed by a mysterious entity, her mother seek the help of two priests to save her daughter.
+    [release_year] => 1973
+    [duration] => 122
+    [rating] => 8.0
+    [price] => 10.99
+    [poster_url] => exorcist.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:08:29 UTC] Database connection successful
+[13-Apr-2025 15:08:29 UTC] PHP Warning:  Undefined variable $pdo in /var/www/html/profile.php on line 19
+[13-Apr-2025 15:08:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /var/www/html/profile.php:19
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/profile.php on line 19
+[13-Apr-2025 15:08:31 UTC] Database connection successful
+[13-Apr-2025 15:08:31 UTC] Database connection successful in index.php
+[13-Apr-2025 15:08:31 UTC] Movie table columns: id, title, description, release_year, duration, rating, price, poster_url, trailer_url, category_id, created_at, updated_at
+[13-Apr-2025 15:08:31 UTC] Movie data: Array
+(
+    [id] => 1
+    [title] => The Shawshank Redemption
+    [description] => Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+    [release_year] => 1994
+    [duration] => 142
+    [rating] => 9.3
+    [price] => 9.99
+    [poster_url] => shawshank.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:08:31 UTC] Movie data: Array
+(
+    [id] => 2
+    [title] => The Godfather
+    [description] => The aging patriarch of an organized crime dynasty transfers control to his son, who expands the family business.
+    [release_year] => 1972
+    [duration] => 175
+    [rating] => 9.2
+    [price] => 12.99
+    [poster_url] => godfather.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:08:31 UTC] Movie data: Array
+(
+    [id] => 3
+    [title] => The Lord of the Rings: The Fellowship of the Ring
+    [description] => A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring.
+    [release_year] => 2001
+    [duration] => 178
+    [rating] => 8.8
+    [price] => 14.99
+    [poster_url] => lotr.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:08:31 UTC] Movie data: Array
+(
+    [id] => 4
+    [title] => Goodfellas
+    [description] => The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito.
+    [release_year] => 1990
+    [duration] => 146
+    [rating] => 8.7
+    [price] => 11.99
+    [poster_url] => goodfellas.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:08:31 UTC] Movie data: Array
+(
+    [id] => 5
+    [title] => The Silence of the Lambs
+    [description] => A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer.
+    [release_year] => 1991
+    [duration] => 118
+    [rating] => 8.6
+    [price] => 10.99
+    [poster_url] => silence_lambs.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:08:31 UTC] Movie data: Array
+(
+    [id] => 6
+    [title] => The Avengers
+    [description] => Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.
+    [release_year] => 2012
+    [duration] => 143
+    [rating] => 8.0
+    [price] => 13.99
+    [poster_url] => avengers.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:08:31 UTC] Movie data: Array
+(
+    [id] => 7
+    [title] => The Hangover
+    [description] => Three friends wake up from a bachelor party in Las Vegas, with no memory of the previous night and the bachelor missing.
+    [release_year] => 2009
+    [duration] => 100
+    [rating] => 7.7
+    [price] => 9.99
+    [poster_url] => hangover.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:08:31 UTC] Movie data: Array
+(
+    [id] => 8
+    [title] => The Exorcist
+    [description] => When a teenage girl is possessed by a mysterious entity, her mother seek the help of two priests to save her daughter.
+    [release_year] => 1973
+    [duration] => 122
+    [rating] => 8.0
+    [price] => 10.99
+    [poster_url] => exorcist.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:08:33 UTC] Database connection successful
+[13-Apr-2025 15:08:41 UTC] Database connection successful
+[13-Apr-2025 15:08:41 UTC] Database connection successful in index.php
+[13-Apr-2025 15:08:41 UTC] Movie table columns: id, title, description, release_year, duration, rating, price, poster_url, trailer_url, category_id, created_at, updated_at
+[13-Apr-2025 15:08:41 UTC] Movie data: Array
+(
+    [id] => 1
+    [title] => The Shawshank Redemption
+    [description] => Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+    [release_year] => 1994
+    [duration] => 142
+    [rating] => 9.3
+    [price] => 9.99
+    [poster_url] => shawshank.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:08:41 UTC] Movie data: Array
+(
+    [id] => 2
+    [title] => The Godfather
+    [description] => The aging patriarch of an organized crime dynasty transfers control to his son, who expands the family business.
+    [release_year] => 1972
+    [duration] => 175
+    [rating] => 9.2
+    [price] => 12.99
+    [poster_url] => godfather.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:08:41 UTC] Movie data: Array
+(
+    [id] => 3
+    [title] => The Lord of the Rings: The Fellowship of the Ring
+    [description] => A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring.
+    [release_year] => 2001
+    [duration] => 178
+    [rating] => 8.8
+    [price] => 14.99
+    [poster_url] => lotr.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:08:41 UTC] Movie data: Array
+(
+    [id] => 4
+    [title] => Goodfellas
+    [description] => The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito.
+    [release_year] => 1990
+    [duration] => 146
+    [rating] => 8.7
+    [price] => 11.99
+    [poster_url] => goodfellas.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:08:41 UTC] Movie data: Array
+(
+    [id] => 5
+    [title] => The Silence of the Lambs
+    [description] => A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer.
+    [release_year] => 1991
+    [duration] => 118
+    [rating] => 8.6
+    [price] => 10.99
+    [poster_url] => silence_lambs.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:08:41 UTC] Movie data: Array
+(
+    [id] => 6
+    [title] => The Avengers
+    [description] => Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.
+    [release_year] => 2012
+    [duration] => 143
+    [rating] => 8.0
+    [price] => 13.99
+    [poster_url] => avengers.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:08:41 UTC] Movie data: Array
+(
+    [id] => 7
+    [title] => The Hangover
+    [description] => Three friends wake up from a bachelor party in Las Vegas, with no memory of the previous night and the bachelor missing.
+    [release_year] => 2009
+    [duration] => 100
+    [rating] => 7.7
+    [price] => 9.99
+    [poster_url] => hangover.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:08:41 UTC] Movie data: Array
+(
+    [id] => 8
+    [title] => The Exorcist
+    [description] => When a teenage girl is possessed by a mysterious entity, her mother seek the help of two priests to save her daughter.
+    [release_year] => 1973
+    [duration] => 122
+    [rating] => 8.0
+    [price] => 10.99
+    [poster_url] => exorcist.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:09:11 UTC] Database connection successful
+[13-Apr-2025 15:09:11 UTC] Database connection successful in index.php
+[13-Apr-2025 15:09:11 UTC] Movie table columns: id, title, description, release_year, duration, rating, price, poster_url, trailer_url, category_id, created_at, updated_at
+[13-Apr-2025 15:09:11 UTC] Movie data: Array
+(
+    [id] => 1
+    [title] => The Shawshank Redemption
+    [description] => Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+    [release_year] => 1994
+    [duration] => 142
+    [rating] => 9.3
+    [price] => 9.99
+    [poster_url] => shawshank.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:09:11 UTC] Movie data: Array
+(
+    [id] => 2
+    [title] => The Godfather
+    [description] => The aging patriarch of an organized crime dynasty transfers control to his son, who expands the family business.
+    [release_year] => 1972
+    [duration] => 175
+    [rating] => 9.2
+    [price] => 12.99
+    [poster_url] => godfather.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:09:11 UTC] Movie data: Array
+(
+    [id] => 3
+    [title] => The Lord of the Rings: The Fellowship of the Ring
+    [description] => A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring.
+    [release_year] => 2001
+    [duration] => 178
+    [rating] => 8.8
+    [price] => 14.99
+    [poster_url] => lotr.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:09:11 UTC] Movie data: Array
+(
+    [id] => 4
+    [title] => Goodfellas
+    [description] => The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito.
+    [release_year] => 1990
+    [duration] => 146
+    [rating] => 8.7
+    [price] => 11.99
+    [poster_url] => goodfellas.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:09:11 UTC] Movie data: Array
+(
+    [id] => 5
+    [title] => The Silence of the Lambs
+    [description] => A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer.
+    [release_year] => 1991
+    [duration] => 118
+    [rating] => 8.6
+    [price] => 10.99
+    [poster_url] => silence_lambs.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:09:11 UTC] Movie data: Array
+(
+    [id] => 6
+    [title] => The Avengers
+    [description] => Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.
+    [release_year] => 2012
+    [duration] => 143
+    [rating] => 8.0
+    [price] => 13.99
+    [poster_url] => avengers.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:09:11 UTC] Movie data: Array
+(
+    [id] => 7
+    [title] => The Hangover
+    [description] => Three friends wake up from a bachelor party in Las Vegas, with no memory of the previous night and the bachelor missing.
+    [release_year] => 2009
+    [duration] => 100
+    [rating] => 7.7
+    [price] => 9.99
+    [poster_url] => hangover.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:09:11 UTC] Movie data: Array
+(
+    [id] => 8
+    [title] => The Exorcist
+    [description] => When a teenage girl is possessed by a mysterious entity, her mother seek the help of two priests to save her daughter.
+    [release_year] => 1973
+    [duration] => 122
+    [rating] => 8.0
+    [price] => 10.99
+    [poster_url] => exorcist.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:09:15 UTC] Database connection successful
+[13-Apr-2025 15:09:15 UTC] Database connection successful in index.php
+[13-Apr-2025 15:09:15 UTC] Movie table columns: id, title, description, release_year, duration, rating, price, poster_url, trailer_url, category_id, created_at, updated_at
+[13-Apr-2025 15:09:15 UTC] Movie data: Array
+(
+    [id] => 1
+    [title] => The Shawshank Redemption
+    [description] => Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+    [release_year] => 1994
+    [duration] => 142
+    [rating] => 9.3
+    [price] => 9.99
+    [poster_url] => shawshank.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:09:15 UTC] Movie data: Array
+(
+    [id] => 2
+    [title] => The Godfather
+    [description] => The aging patriarch of an organized crime dynasty transfers control to his son, who expands the family business.
+    [release_year] => 1972
+    [duration] => 175
+    [rating] => 9.2
+    [price] => 12.99
+    [poster_url] => godfather.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:09:15 UTC] Movie data: Array
+(
+    [id] => 3
+    [title] => The Lord of the Rings: The Fellowship of the Ring
+    [description] => A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring.
+    [release_year] => 2001
+    [duration] => 178
+    [rating] => 8.8
+    [price] => 14.99
+    [poster_url] => lotr.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:09:15 UTC] Movie data: Array
+(
+    [id] => 4
+    [title] => Goodfellas
+    [description] => The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito.
+    [release_year] => 1990
+    [duration] => 146
+    [rating] => 8.7
+    [price] => 11.99
+    [poster_url] => goodfellas.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:09:15 UTC] Movie data: Array
+(
+    [id] => 5
+    [title] => The Silence of the Lambs
+    [description] => A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer.
+    [release_year] => 1991
+    [duration] => 118
+    [rating] => 8.6
+    [price] => 10.99
+    [poster_url] => silence_lambs.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:09:15 UTC] Movie data: Array
+(
+    [id] => 6
+    [title] => The Avengers
+    [description] => Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.
+    [release_year] => 2012
+    [duration] => 143
+    [rating] => 8.0
+    [price] => 13.99
+    [poster_url] => avengers.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:09:15 UTC] Movie data: Array
+(
+    [id] => 7
+    [title] => The Hangover
+    [description] => Three friends wake up from a bachelor party in Las Vegas, with no memory of the previous night and the bachelor missing.
+    [release_year] => 2009
+    [duration] => 100
+    [rating] => 7.7
+    [price] => 9.99
+    [poster_url] => hangover.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:09:15 UTC] Movie data: Array
+(
+    [id] => 8
+    [title] => The Exorcist
+    [description] => When a teenage girl is possessed by a mysterious entity, her mother seek the help of two priests to save her daughter.
+    [release_year] => 1973
+    [duration] => 122
+    [rating] => 8.0
+    [price] => 10.99
+    [poster_url] => exorcist.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:09:17 UTC] Database connection successful
+[13-Apr-2025 15:09:17 UTC] Database connection successful in movie.php
+[13-Apr-2025 15:09:17 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 15:09:20 UTC] Database connection successful
+[13-Apr-2025 15:09:20 UTC] Database connection successful
+[13-Apr-2025 15:09:20 UTC] Database connection successful in movie.php
+[13-Apr-2025 15:09:20 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 15:09:27 UTC] Database connection successful
+[13-Apr-2025 15:09:27 UTC] Database connection successful
+[13-Apr-2025 15:09:27 UTC] Error fetching movie details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'thumbnail' in 'field list'
+[13-Apr-2025 15:09:32 UTC] Database connection successful
+[13-Apr-2025 15:09:32 UTC] Database connection successful
+[13-Apr-2025 15:09:32 UTC] Error fetching order details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.thumbnail' in 'field list'
+[13-Apr-2025 15:09:32 UTC] Database connection successful
+[13-Apr-2025 15:09:32 UTC] Database connection successful in index.php
+[13-Apr-2025 15:09:32 UTC] Movie table columns: id, title, description, release_year, duration, rating, price, poster_url, trailer_url, category_id, created_at, updated_at
+[13-Apr-2025 15:09:32 UTC] Movie data: Array
+(
+    [id] => 1
+    [title] => The Shawshank Redemption
+    [description] => Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+    [release_year] => 1994
+    [duration] => 142
+    [rating] => 9.3
+    [price] => 9.99
+    [poster_url] => shawshank.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:09:32 UTC] Movie data: Array
+(
+    [id] => 2
+    [title] => The Godfather
+    [description] => The aging patriarch of an organized crime dynasty transfers control to his son, who expands the family business.
+    [release_year] => 1972
+    [duration] => 175
+    [rating] => 9.2
+    [price] => 12.99
+    [poster_url] => godfather.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:09:32 UTC] Movie data: Array
+(
+    [id] => 3
+    [title] => The Lord of the Rings: The Fellowship of the Ring
+    [description] => A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring.
+    [release_year] => 2001
+    [duration] => 178
+    [rating] => 8.8
+    [price] => 14.99
+    [poster_url] => lotr.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:09:32 UTC] Movie data: Array
+(
+    [id] => 4
+    [title] => Goodfellas
+    [description] => The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito.
+    [release_year] => 1990
+    [duration] => 146
+    [rating] => 8.7
+    [price] => 11.99
+    [poster_url] => goodfellas.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:09:32 UTC] Movie data: Array
+(
+    [id] => 5
+    [title] => The Silence of the Lambs
+    [description] => A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer.
+    [release_year] => 1991
+    [duration] => 118
+    [rating] => 8.6
+    [price] => 10.99
+    [poster_url] => silence_lambs.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:09:32 UTC] Movie data: Array
+(
+    [id] => 6
+    [title] => The Avengers
+    [description] => Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.
+    [release_year] => 2012
+    [duration] => 143
+    [rating] => 8.0
+    [price] => 13.99
+    [poster_url] => avengers.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:09:32 UTC] Movie data: Array
+(
+    [id] => 7
+    [title] => The Hangover
+    [description] => Three friends wake up from a bachelor party in Las Vegas, with no memory of the previous night and the bachelor missing.
+    [release_year] => 2009
+    [duration] => 100
+    [rating] => 7.7
+    [price] => 9.99
+    [poster_url] => hangover.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:09:32 UTC] Movie data: Array
+(
+    [id] => 8
+    [title] => The Exorcist
+    [description] => When a teenage girl is possessed by a mysterious entity, her mother seek the help of two priests to save her daughter.
+    [release_year] => 1973
+    [duration] => 122
+    [rating] => 8.0
+    [price] => 10.99
+    [poster_url] => exorcist.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:42:39 UTC] Database connection successful
+[13-Apr-2025 15:42:39 UTC] Database connection successful in index.php
+[13-Apr-2025 15:42:39 UTC] Movie table columns: id, title, description, release_year, duration, rating, price, poster_url, trailer_url, category_id, created_at, updated_at
+[13-Apr-2025 15:42:39 UTC] Movie data: Array
+(
+    [id] => 1
+    [title] => The Shawshank Redemption
+    [description] => Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+    [release_year] => 1994
+    [duration] => 142
+    [rating] => 9.3
+    [price] => 9.99
+    [poster_url] => shawshank.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:42:39 UTC] Movie data: Array
+(
+    [id] => 2
+    [title] => The Godfather
+    [description] => The aging patriarch of an organized crime dynasty transfers control to his son, who expands the family business.
+    [release_year] => 1972
+    [duration] => 175
+    [rating] => 9.2
+    [price] => 12.99
+    [poster_url] => godfather.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:42:39 UTC] Movie data: Array
+(
+    [id] => 3
+    [title] => The Lord of the Rings: The Fellowship of the Ring
+    [description] => A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring.
+    [release_year] => 2001
+    [duration] => 178
+    [rating] => 8.8
+    [price] => 14.99
+    [poster_url] => lotr.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:42:39 UTC] Movie data: Array
+(
+    [id] => 4
+    [title] => Goodfellas
+    [description] => The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito.
+    [release_year] => 1990
+    [duration] => 146
+    [rating] => 8.7
+    [price] => 11.99
+    [poster_url] => goodfellas.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:42:39 UTC] Movie data: Array
+(
+    [id] => 5
+    [title] => The Silence of the Lambs
+    [description] => A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer.
+    [release_year] => 1991
+    [duration] => 118
+    [rating] => 8.6
+    [price] => 10.99
+    [poster_url] => silence_lambs.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:42:39 UTC] Movie data: Array
+(
+    [id] => 6
+    [title] => The Avengers
+    [description] => Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.
+    [release_year] => 2012
+    [duration] => 143
+    [rating] => 8.0
+    [price] => 13.99
+    [poster_url] => avengers.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:42:39 UTC] Movie data: Array
+(
+    [id] => 7
+    [title] => The Hangover
+    [description] => Three friends wake up from a bachelor party in Las Vegas, with no memory of the previous night and the bachelor missing.
+    [release_year] => 2009
+    [duration] => 100
+    [rating] => 7.7
+    [price] => 9.99
+    [poster_url] => hangover.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:42:39 UTC] Movie data: Array
+(
+    [id] => 8
+    [title] => The Exorcist
+    [description] => When a teenage girl is possessed by a mysterious entity, her mother seek the help of two priests to save her daughter.
+    [release_year] => 1973
+    [duration] => 122
+    [rating] => 8.0
+    [price] => 10.99
+    [poster_url] => exorcist.jpg
+    [trailer_url] => 
+    [category_id] => 
+    [created_at] => 2025-04-13 14:00:24
+    [updated_at] => 2025-04-13 14:00:24
+)
+
+[13-Apr-2025 15:43:40 UTC] Database connection successful
+[13-Apr-2025 15:43:40 UTC] Database connection successful in index.php
+[13-Apr-2025 15:43:52 UTC] Database connection successful
+[13-Apr-2025 15:43:52 UTC] Database connection successful in index.php
+[13-Apr-2025 15:45:20 UTC] Database connection successful
+[13-Apr-2025 15:45:20 UTC] Database connection successful in index.php
+[13-Apr-2025 15:45:42 UTC] Database connection successful
+[13-Apr-2025 15:45:42 UTC] Database connection successful in movie.php
+[13-Apr-2025 15:45:42 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 15:45:46 UTC] Database connection successful
+[13-Apr-2025 15:45:46 UTC] Database connection successful in index.php
+[13-Apr-2025 15:46:11 UTC] Database connection successful
+[13-Apr-2025 15:46:29 UTC] Database connection successful
+[13-Apr-2025 15:46:29 UTC] PHP Warning:  Undefined variable $pdo in /var/www/html/login.php on line 31
+[13-Apr-2025 15:46:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /var/www/html/login.php:31
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/login.php on line 31
+[13-Apr-2025 15:46:33 UTC] Database connection successful
+[13-Apr-2025 15:46:47 UTC] Database connection successful
+[13-Apr-2025 15:46:47 UTC] PHP Warning:  Undefined variable $pdo in /var/www/html/login.php on line 31
+[13-Apr-2025 15:46:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /var/www/html/login.php:31
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/login.php on line 31
+[13-Apr-2025 15:47:12 UTC] Database connection successful
+[13-Apr-2025 15:47:13 UTC] Database connection successful
+[13-Apr-2025 15:47:13 UTC] Database connection successful in index.php
+[13-Apr-2025 15:47:20 UTC] Database connection successful
+[13-Apr-2025 15:47:20 UTC] Database connection successful in index.php
+[13-Apr-2025 15:47:22 UTC] Database connection successful
+[13-Apr-2025 15:47:34 UTC] Database connection successful
+[13-Apr-2025 15:47:34 UTC] Database connection successful
+[13-Apr-2025 15:47:34 UTC] Database connection successful in index.php
+[13-Apr-2025 15:48:24 UTC] Database connection successful
+[13-Apr-2025 15:48:24 UTC] Database connection successful in index.php
+[13-Apr-2025 15:49:23 UTC] Database connection successful
+[13-Apr-2025 15:49:23 UTC] Database connection successful in index.php
+[13-Apr-2025 15:49:26 UTC] Database connection successful
+[13-Apr-2025 15:49:26 UTC] Database connection successful in index.php
+[13-Apr-2025 15:49:28 UTC] Database connection successful
+[13-Apr-2025 15:49:30 UTC] Database connection successful
+[13-Apr-2025 15:49:30 UTC] Database connection successful in index.php
+[13-Apr-2025 15:49:33 UTC] Database connection successful
+[13-Apr-2025 15:49:33 UTC] Database connection successful in index.php
+[13-Apr-2025 15:50:28 UTC] Database connection successful
+[13-Apr-2025 15:50:33 UTC] Database connection successful
+[13-Apr-2025 15:50:33 UTC] Database connection successful
+[13-Apr-2025 15:50:37 UTC] Database connection successful
+[13-Apr-2025 15:50:37 UTC] Database connection successful
+[13-Apr-2025 15:50:42 UTC] Database connection successful
+[13-Apr-2025 15:50:42 UTC] Database connection successful in index.php
+[13-Apr-2025 15:50:44 UTC] Database connection successful
+[13-Apr-2025 15:50:44 UTC] Database connection successful in movie.php
+[13-Apr-2025 15:50:44 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 15:50:45 UTC] Database connection successful
+[13-Apr-2025 15:50:45 UTC] Database connection successful
+[13-Apr-2025 15:50:45 UTC] Database connection successful in movie.php
+[13-Apr-2025 15:50:45 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 15:50:47 UTC] Database connection successful
+[13-Apr-2025 15:50:48 UTC] Database connection successful in movie.php
+[13-Apr-2025 15:50:48 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 15:50:50 UTC] Database connection successful
+[13-Apr-2025 15:50:50 UTC] Database connection successful in index.php
+[13-Apr-2025 15:50:53 UTC] Database connection successful
+[13-Apr-2025 15:50:53 UTC] Database connection successful in movie.php
+[13-Apr-2025 15:50:53 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 15:50:54 UTC] Database connection successful
+[13-Apr-2025 15:50:54 UTC] Database connection successful
+[13-Apr-2025 15:50:54 UTC] Database connection successful in movie.php
+[13-Apr-2025 15:50:54 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 15:50:56 UTC] Database connection successful
+[13-Apr-2025 15:50:56 UTC] Database connection successful in index.php
+[13-Apr-2025 15:50:57 UTC] Database connection successful
+[13-Apr-2025 15:51:05 UTC] Database connection successful
+[13-Apr-2025 15:51:05 UTC] Database connection successful in index.php
+[13-Apr-2025 15:51:06 UTC] Database connection successful
+[13-Apr-2025 15:51:32 UTC] Database connection successful
+[13-Apr-2025 15:51:32 UTC] Database connection successful in index.php
+[13-Apr-2025 15:51:33 UTC] Database connection successful
+[13-Apr-2025 15:51:35 UTC] Database connection successful
+[13-Apr-2025 15:51:35 UTC] Database connection successful in index.php
+[13-Apr-2025 15:51:42 UTC] Database connection successful
+[13-Apr-2025 15:51:42 UTC] Database connection successful in index.php
+[13-Apr-2025 15:52:03 UTC] Database connection successful
+[13-Apr-2025 15:52:03 UTC] Database connection successful in index.php
+[13-Apr-2025 15:52:47 UTC] Database connection successful
+[13-Apr-2025 15:52:47 UTC] Database connection successful in index.php
+[13-Apr-2025 15:54:30 UTC] Database connection successful
+[13-Apr-2025 15:54:30 UTC] Database connection successful in index.php
+[13-Apr-2025 15:55:15 UTC] Database connection successful
+[13-Apr-2025 15:55:15 UTC] Database connection successful in index.php
+[13-Apr-2025 15:55:21 UTC] Database connection successful
+[13-Apr-2025 15:55:21 UTC] Database connection successful in movie.php
+[13-Apr-2025 15:55:21 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 15:55:21 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /var/www/html/movie.php on line 274
+[13-Apr-2025 15:55:21 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/local/lib/php') in /var/www/html/movie.php on line 274
+[13-Apr-2025 15:55:21 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /var/www/html/movie.php on line 372
+[13-Apr-2025 15:55:21 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/local/lib/php') in /var/www/html/movie.php on line 372
+[13-Apr-2025 15:56:15 UTC] Database connection successful
+[13-Apr-2025 15:56:15 UTC] Database connection successful in movie.php
+[13-Apr-2025 15:56:15 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 15:56:15 UTC] PHP Warning:  Undefined variable $user in /var/www/html/movie.php on line 306
+[13-Apr-2025 15:56:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/html/movie.php on line 306
+[13-Apr-2025 15:56:17 UTC] Database connection successful
+[13-Apr-2025 15:56:17 UTC] Database connection successful in movie.php
+[13-Apr-2025 15:56:17 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 15:56:17 UTC] PHP Warning:  Undefined variable $user in /var/www/html/movie.php on line 306
+[13-Apr-2025 15:56:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /var/www/html/movie.php on line 306
+[13-Apr-2025 15:56:44 UTC] Database connection successful
+[13-Apr-2025 15:56:44 UTC] Database connection successful in movie.php
+[13-Apr-2025 15:56:44 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 15:58:06 UTC] Database connection successful
+[13-Apr-2025 15:58:06 UTC] Database connection successful in movie.php
+[13-Apr-2025 15:58:06 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 15:58:14 UTC] Database connection successful
+[13-Apr-2025 15:58:14 UTC] Database connection successful in index.php
+[13-Apr-2025 15:58:19 UTC] Database connection successful
+[13-Apr-2025 15:58:19 UTC] Database connection successful in movie.php
+[13-Apr-2025 15:58:19 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 15:59:12 UTC] Database connection successful
+[13-Apr-2025 15:59:12 UTC] Database connection successful in movie.php
+[13-Apr-2025 15:59:12 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 15:59:22 UTC] Database connection successful
+[13-Apr-2025 15:59:22 UTC] Database connection successful in movie.php
+[13-Apr-2025 15:59:22 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 16:00:11 UTC] Database connection successful
+[13-Apr-2025 16:00:11 UTC] Database connection successful in movie.php
+[13-Apr-2025 16:00:11 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 16:00:13 UTC] Database connection successful
+[13-Apr-2025 16:00:13 UTC] Database connection successful in index.php
+[13-Apr-2025 16:00:15 UTC] Database connection successful
+[13-Apr-2025 16:00:15 UTC] Database connection successful in movie.php
+[13-Apr-2025 16:00:15 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 16:00:29 UTC] Database connection successful
+[13-Apr-2025 16:00:29 UTC] Database connection successful in movie.php
+[13-Apr-2025 16:00:29 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 16:00:31 UTC] Database connection successful
+[13-Apr-2025 16:00:31 UTC] Database connection successful
+[13-Apr-2025 16:00:31 UTC] Error fetching movie details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'thumbnail' in 'field list'
+[13-Apr-2025 16:00:35 UTC] Database connection successful
+[13-Apr-2025 16:00:35 UTC] Database connection successful
+[13-Apr-2025 16:00:35 UTC] Error fetching order details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.thumbnail' in 'field list'
+[13-Apr-2025 16:00:35 UTC] Database connection successful
+[13-Apr-2025 16:00:35 UTC] Database connection successful in index.php
+[13-Apr-2025 16:00:38 UTC] Database connection successful
+[13-Apr-2025 16:00:38 UTC] Database connection successful in movie.php
+[13-Apr-2025 16:00:38 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 16:01:03 UTC] Database connection successful
+[13-Apr-2025 16:01:03 UTC] Database connection successful in movie.php
+[13-Apr-2025 16:01:03 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 16:01:16 UTC] Database connection successful
+[13-Apr-2025 16:01:16 UTC] Database connection successful in movie.php
+[13-Apr-2025 16:01:16 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 16:02:21 UTC] Database connection successful
+[13-Apr-2025 16:02:21 UTC] Database connection successful in movie.php
+[13-Apr-2025 16:02:21 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 16:03:39 UTC] Database connection successful
+[13-Apr-2025 16:03:39 UTC] Database connection successful in movie.php
+[13-Apr-2025 16:03:39 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 16:06:00 UTC] Database connection successful
+[13-Apr-2025 16:06:00 UTC] Database connection successful in movie.php
+[13-Apr-2025 16:06:00 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 16:06:05 UTC] Database connection successful
+[13-Apr-2025 16:06:05 UTC] Database connection successful
+[13-Apr-2025 16:06:05 UTC] Database connection successful in movie.php
+[13-Apr-2025 16:06:05 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 16:06:08 UTC] Database connection successful
+[13-Apr-2025 16:06:08 UTC] Database connection successful
+[13-Apr-2025 16:06:08 UTC] Error fetching movie details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'thumbnail' in 'field list'
+[13-Apr-2025 16:06:11 UTC] Database connection successful
+[13-Apr-2025 16:06:12 UTC] Database connection successful
+[13-Apr-2025 16:06:12 UTC] Error fetching order details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.thumbnail' in 'field list'
+[13-Apr-2025 16:06:12 UTC] Database connection successful
+[13-Apr-2025 16:06:12 UTC] Database connection successful in index.php
+[13-Apr-2025 16:06:14 UTC] Database connection successful
+[13-Apr-2025 16:06:14 UTC] PHP Warning:  require_once(header.php): Failed to open stream: No such file or directory in /var/www/html/orders.php on line 15
+[13-Apr-2025 16:06:14 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'header.php' (include_path='.:/usr/local/lib/php') in /var/www/html/orders.php:15
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/orders.php on line 15
+[13-Apr-2025 16:06:17 UTC] Database connection successful
+[13-Apr-2025 16:06:17 UTC] Database connection successful in index.php
+[13-Apr-2025 16:06:19 UTC] Database connection successful
+[13-Apr-2025 16:06:19 UTC] PHP Warning:  require_once(header.php): Failed to open stream: No such file or directory in /var/www/html/watchlist.php on line 34
+[13-Apr-2025 16:06:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'header.php' (include_path='.:/usr/local/lib/php') in /var/www/html/watchlist.php:34
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/watchlist.php on line 34
+[13-Apr-2025 16:06:21 UTC] Database connection successful
+[13-Apr-2025 16:06:21 UTC] Database connection successful in index.php
+[13-Apr-2025 16:06:22 UTC] Database connection successful
+[13-Apr-2025 16:06:22 UTC] PHP Warning:  require_once(header.php): Failed to open stream: No such file or directory in /var/www/html/orders.php on line 15
+[13-Apr-2025 16:06:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'header.php' (include_path='.:/usr/local/lib/php') in /var/www/html/orders.php:15
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/orders.php on line 15
+[13-Apr-2025 16:07:14 UTC] Database connection successful
+[13-Apr-2025 16:07:14 UTC] Database connection successful in index.php
+[13-Apr-2025 16:07:19 UTC] Database connection successful
+[13-Apr-2025 16:07:19 UTC] PHP Warning:  Undefined variable $pdo in /var/www/html/profile.php on line 19
+[13-Apr-2025 16:07:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /var/www/html/profile.php:19
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/profile.php on line 19
+[13-Apr-2025 16:07:21 UTC] Database connection successful
+[13-Apr-2025 16:07:21 UTC] Database connection successful in index.php
+[13-Apr-2025 16:07:23 UTC] Database connection successful
+[13-Apr-2025 16:07:23 UTC] PHP Warning:  require_once(header.php): Failed to open stream: No such file or directory in /var/www/html/orders.php on line 15
+[13-Apr-2025 16:07:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'header.php' (include_path='.:/usr/local/lib/php') in /var/www/html/orders.php:15
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/orders.php on line 15
+[13-Apr-2025 16:07:25 UTC] Database connection successful
+[13-Apr-2025 16:07:25 UTC] Database connection successful in index.php
+[13-Apr-2025 16:07:28 UTC] Database connection successful
+[13-Apr-2025 16:07:28 UTC] Database connection successful in movie.php
+[13-Apr-2025 16:07:28 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 16:08:02 UTC] Database connection successful
+[13-Apr-2025 16:08:02 UTC] Database connection successful in index.php
+[13-Apr-2025 16:10:31 UTC] Database connection successful
+[13-Apr-2025 16:10:36 UTC] Database connection successful
+[13-Apr-2025 16:10:36 UTC] Database connection successful in index.php
+[13-Apr-2025 16:10:37 UTC] Database connection successful
+[13-Apr-2025 16:10:37 UTC] PHP Warning:  require_once(header.php): Failed to open stream: No such file or directory in /var/www/html/watchlist.php on line 34
+[13-Apr-2025 16:10:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'header.php' (include_path='.:/usr/local/lib/php') in /var/www/html/watchlist.php:34
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/watchlist.php on line 34
+[13-Apr-2025 16:11:41 UTC] Database connection successful
+[13-Apr-2025 16:11:41 UTC] Database connection successful in index.php
+[13-Apr-2025 16:11:53 UTC] Database connection successful
+[13-Apr-2025 16:11:53 UTC] Database connection successful in movie.php
+[13-Apr-2025 16:11:53 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 16:11:54 UTC] Database connection successful
+[13-Apr-2025 16:11:54 UTC] Database connection successful
+[13-Apr-2025 16:11:54 UTC] Database connection successful in movie.php
+[13-Apr-2025 16:11:54 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 16:11:59 UTC] Database connection successful
+[13-Apr-2025 16:11:59 UTC] Database connection successful
+[13-Apr-2025 16:11:59 UTC] Error fetching movie details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'thumbnail' in 'field list'
+[13-Apr-2025 16:12:02 UTC] Database connection successful
+[13-Apr-2025 16:12:02 UTC] Database connection successful
+[13-Apr-2025 16:12:02 UTC] Error fetching order details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.thumbnail' in 'field list'
+[13-Apr-2025 16:12:02 UTC] Database connection successful
+[13-Apr-2025 16:12:02 UTC] Database connection successful in index.php
+[13-Apr-2025 16:12:05 UTC] Database connection successful
+[13-Apr-2025 16:12:07 UTC] Database connection successful
+[13-Apr-2025 16:12:07 UTC] Database connection successful in index.php
+[13-Apr-2025 16:12:16 UTC] Database connection successful
+[13-Apr-2025 16:12:21 UTC] Database connection successful
+[13-Apr-2025 16:12:21 UTC] Database connection successful
+[13-Apr-2025 16:12:26 UTC] Database connection successful
+[13-Apr-2025 16:12:26 UTC] Database connection successful
+[13-Apr-2025 16:12:31 UTC] Database connection successful
+[13-Apr-2025 16:12:31 UTC] Database connection successful in index.php
+[13-Apr-2025 16:12:34 UTC] Database connection successful
+[13-Apr-2025 16:12:39 UTC] Database connection successful
+[13-Apr-2025 16:12:43 UTC] Database connection successful
+[13-Apr-2025 16:12:43 UTC] Database connection successful in index.php
+[13-Apr-2025 16:13:50 UTC] Database connection successful
+[13-Apr-2025 16:13:50 UTC] Database connection successful in index.php
+[13-Apr-2025 16:14:51 UTC] Database connection successful
+[13-Apr-2025 16:14:51 UTC] Database connection successful in index.php
+[13-Apr-2025 16:14:57 UTC] Database connection successful
+[13-Apr-2025 16:14:57 UTC] Database connection successful in movie.php
+[13-Apr-2025 16:14:57 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 16:15:00 UTC] Database connection successful
+[13-Apr-2025 16:15:00 UTC] Database connection successful
+[13-Apr-2025 16:15:00 UTC] Error fetching movie details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'thumbnail' in 'field list'
+[13-Apr-2025 16:15:03 UTC] Database connection successful
+[13-Apr-2025 16:15:03 UTC] Database connection successful
+[13-Apr-2025 16:15:03 UTC] Error fetching order details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.thumbnail' in 'field list'
+[13-Apr-2025 16:15:03 UTC] Database connection successful
+[13-Apr-2025 16:15:03 UTC] Database connection successful in index.php
+[13-Apr-2025 16:15:06 UTC] Database connection successful
+[13-Apr-2025 16:15:08 UTC] Database connection successful
+[13-Apr-2025 16:15:08 UTC] Database connection successful in index.php
+[13-Apr-2025 16:15:09 UTC] Database connection successful
+[13-Apr-2025 16:15:10 UTC] Database connection successful
+[13-Apr-2025 16:15:10 UTC] Database connection successful in index.php
+[13-Apr-2025 16:15:14 UTC] Database connection successful
+[13-Apr-2025 16:15:14 UTC] Database connection successful in movie.php
+[13-Apr-2025 16:15:14 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 16:15:15 UTC] Database connection successful
+[13-Apr-2025 16:15:15 UTC] Database connection successful
+[13-Apr-2025 16:15:15 UTC] Database connection successful in movie.php
+[13-Apr-2025 16:15:15 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 16:15:17 UTC] Database connection successful
+[13-Apr-2025 16:15:17 UTC] Database connection successful in index.php
+[13-Apr-2025 16:15:18 UTC] Database connection successful
+[13-Apr-2025 16:15:20 UTC] Database connection successful
+[13-Apr-2025 16:15:20 UTC] Database connection successful in index.php
+[13-Apr-2025 16:15:34 UTC] Database connection successful
+[13-Apr-2025 16:15:34 UTC] Database connection successful in movie.php
+[13-Apr-2025 16:15:34 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 16:15:37 UTC] Database connection successful
+[13-Apr-2025 16:15:37 UTC] Database connection successful
+[13-Apr-2025 16:15:37 UTC] Database connection successful in movie.php
+[13-Apr-2025 16:15:37 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 16:15:40 UTC] Database connection successful
+[13-Apr-2025 16:15:40 UTC] Database connection successful
+[13-Apr-2025 16:15:40 UTC] Error fetching movie details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'thumbnail' in 'field list'
+[13-Apr-2025 16:15:43 UTC] Database connection successful
+[13-Apr-2025 16:15:43 UTC] Database connection successful
+[13-Apr-2025 16:15:43 UTC] Error fetching order details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.thumbnail' in 'field list'
+[13-Apr-2025 16:15:43 UTC] Database connection successful
+[13-Apr-2025 16:15:43 UTC] Database connection successful in index.php
+[13-Apr-2025 16:15:45 UTC] Database connection successful
+[13-Apr-2025 16:15:47 UTC] Database connection successful
+[13-Apr-2025 16:15:47 UTC] Database connection successful in index.php
+[13-Apr-2025 16:15:48 UTC] Database connection successful
+[13-Apr-2025 16:15:52 UTC] Database connection successful
+[13-Apr-2025 16:15:55 UTC] Database connection successful
+[13-Apr-2025 16:15:57 UTC] Database connection successful
+[13-Apr-2025 16:16:00 UTC] Database connection successful
+[13-Apr-2025 16:16:01 UTC] Database connection successful
+[13-Apr-2025 16:16:01 UTC] Database connection successful in index.php
+[13-Apr-2025 16:16:10 UTC] Database connection successful
+[13-Apr-2025 16:16:10 UTC] Database connection successful in index.php
+[13-Apr-2025 16:16:27 UTC] Database connection successful
+[13-Apr-2025 16:16:27 UTC] Database connection successful in movie.php
+[13-Apr-2025 16:16:27 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 16:16:30 UTC] Database connection successful
+[13-Apr-2025 16:16:30 UTC] Database connection successful in index.php
+[13-Apr-2025 16:16:36 UTC] Database connection successful
+[13-Apr-2025 16:16:36 UTC] Database connection successful in index.php
+[13-Apr-2025 16:20:12 UTC] Database connection successful
+[13-Apr-2025 16:20:15 UTC] Database connection successful
+[13-Apr-2025 16:20:16 UTC] Database connection successful
+[13-Apr-2025 16:20:19 UTC] Database connection successful
+[13-Apr-2025 16:20:19 UTC] Database connection successful
+[13-Apr-2025 16:20:22 UTC] Database connection successful
+[13-Apr-2025 16:21:09 UTC] Database connection successful
+[13-Apr-2025 16:21:09 UTC] Database connection successful in index.php
+[13-Apr-2025 16:21:30 UTC] Database connection successful
+[13-Apr-2025 16:21:54 UTC] Database connection successful
+[13-Apr-2025 16:21:54 UTC] Database connection successful in index.php
+[13-Apr-2025 16:22:09 UTC] Database connection successful
+[13-Apr-2025 16:22:11 UTC] Database connection successful
+[13-Apr-2025 16:22:11 UTC] Database connection successful in index.php
+[13-Apr-2025 16:22:13 UTC] Database connection successful
+[13-Apr-2025 16:22:17 UTC] Database connection successful
+[13-Apr-2025 16:22:17 UTC] Database connection successful in index.php
+[13-Apr-2025 16:22:19 UTC] Database connection successful
+[13-Apr-2025 16:22:21 UTC] Database connection successful
+[13-Apr-2025 16:22:21 UTC] Database connection successful in index.php
+[13-Apr-2025 16:22:45 UTC] Database connection successful
+[13-Apr-2025 16:22:50 UTC] Database connection successful
+[13-Apr-2025 16:22:50 UTC] Database connection successful in index.php
+[13-Apr-2025 16:22:52 UTC] Database connection successful
+[13-Apr-2025 16:23:03 UTC] Database connection successful
+[13-Apr-2025 16:23:03 UTC] Database connection successful in index.php
+[13-Apr-2025 16:23:05 UTC] Database connection successful
+[13-Apr-2025 16:23:05 UTC] Database connection successful in movie.php
+[13-Apr-2025 16:23:05 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 16:23:07 UTC] Database connection successful
+[13-Apr-2025 16:23:07 UTC] Database connection successful
+[13-Apr-2025 16:23:07 UTC] Error fetching movie details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'thumbnail' in 'field list'
+[13-Apr-2025 16:23:09 UTC] Database connection successful
+[13-Apr-2025 16:23:09 UTC] Database connection successful
+[13-Apr-2025 16:23:09 UTC] Error fetching order details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.thumbnail' in 'field list'
+[13-Apr-2025 16:23:09 UTC] Database connection successful
+[13-Apr-2025 16:23:09 UTC] Database connection successful in index.php
+[13-Apr-2025 16:23:18 UTC] Database connection successful
+[13-Apr-2025 16:23:33 UTC] Database connection successful
+[13-Apr-2025 16:23:33 UTC] Database connection successful in index.php
+[13-Apr-2025 16:23:53 UTC] Database connection successful
+[13-Apr-2025 16:23:57 UTC] Database connection successful
+[13-Apr-2025 16:23:57 UTC] Database connection successful in movie.php
+[13-Apr-2025 16:23:57 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 16:24:00 UTC] Database connection successful
+[13-Apr-2025 16:24:00 UTC] Database connection successful in index.php
+[13-Apr-2025 16:24:12 UTC] Database connection successful
+[13-Apr-2025 16:24:14 UTC] Database connection successful
+[13-Apr-2025 16:24:15 UTC] Database connection successful in index.php
+[13-Apr-2025 16:24:33 UTC] Database connection successful
+[13-Apr-2025 16:24:37 UTC] Database connection successful
+[13-Apr-2025 16:24:37 UTC] Database connection successful in index.php
+[13-Apr-2025 16:24:40 UTC] Database connection successful
+[13-Apr-2025 16:24:40 UTC] PHP Warning:  Undefined variable $pdo in /var/www/html/profile.php on line 19
+[13-Apr-2025 16:24:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /var/www/html/profile.php:19
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/profile.php on line 19
+[13-Apr-2025 16:25:24 UTC] Database connection successful
+[13-Apr-2025 16:25:24 UTC] Error fetching order history: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.thumbnail' in 'field list'
+[13-Apr-2025 16:25:37 UTC] Database connection successful
+[13-Apr-2025 16:25:37 UTC] Database connection successful in index.php
+[13-Apr-2025 16:29:32 UTC] Database connection successful
+[13-Apr-2025 16:29:37 UTC] Database connection successful
+[13-Apr-2025 16:29:37 UTC] Database connection successful in index.php
+[13-Apr-2025 16:30:52 UTC] Database connection successful
+[13-Apr-2025 16:30:52 UTC] Database connection successful in index.php
+[13-Apr-2025 16:30:54 UTC] Database connection successful
+[13-Apr-2025 16:30:54 UTC] Database connection successful in index.php
+[13-Apr-2025 16:30:55 UTC] Database connection successful
+[13-Apr-2025 16:30:55 UTC] Database connection successful in index.php
+[13-Apr-2025 16:30:59 UTC] Database connection successful
+[13-Apr-2025 16:30:59 UTC] Database connection successful in movie.php
+[13-Apr-2025 16:30:59 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 16:31:02 UTC] Database connection successful
+[13-Apr-2025 16:31:02 UTC] Database connection successful
+[13-Apr-2025 16:31:02 UTC] Error fetching movie details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'thumbnail' in 'field list'
+[13-Apr-2025 16:31:04 UTC] Database connection successful
+[13-Apr-2025 16:31:04 UTC] Database connection successful
+[13-Apr-2025 16:31:04 UTC] Error fetching order details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.thumbnail' in 'field list'
+[13-Apr-2025 16:31:04 UTC] Database connection successful
+[13-Apr-2025 16:31:04 UTC] Database connection successful in index.php
+[13-Apr-2025 16:31:09 UTC] Database connection successful
+[13-Apr-2025 16:31:09 UTC] Database connection successful in movie.php
+[13-Apr-2025 16:31:09 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 16:31:10 UTC] Database connection successful
+[13-Apr-2025 16:31:10 UTC] Database connection successful
+[13-Apr-2025 16:31:10 UTC] Error fetching movie details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'thumbnail' in 'field list'
+[13-Apr-2025 16:31:12 UTC] Database connection successful
+[13-Apr-2025 16:31:12 UTC] Database connection successful
+[13-Apr-2025 16:31:12 UTC] Error fetching order details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.thumbnail' in 'field list'
+[13-Apr-2025 16:31:12 UTC] Database connection successful
+[13-Apr-2025 16:31:12 UTC] Database connection successful in index.php
+[13-Apr-2025 16:31:25 UTC] Database connection successful
+[13-Apr-2025 16:32:35 UTC] Database connection successful
+[13-Apr-2025 16:32:35 UTC] Database connection successful in index.php
+[13-Apr-2025 16:32:38 UTC] Database connection successful
+[13-Apr-2025 16:33:13 UTC] Database connection successful
+[13-Apr-2025 16:33:13 UTC] Database connection successful in index.php
+[13-Apr-2025 16:33:15 UTC] Database connection successful
+[13-Apr-2025 16:33:16 UTC] Database connection successful
+[13-Apr-2025 16:33:16 UTC] Database connection successful in index.php
+[13-Apr-2025 16:33:19 UTC] Database connection successful
+[13-Apr-2025 16:33:19 UTC] Database connection successful in movie.php
+[13-Apr-2025 16:33:19 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 16:33:20 UTC] Database connection successful
+[13-Apr-2025 16:33:20 UTC] Database connection successful
+[13-Apr-2025 16:33:20 UTC] Database connection successful in movie.php
+[13-Apr-2025 16:33:20 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 16:33:22 UTC] Database connection successful
+[13-Apr-2025 16:33:22 UTC] Database connection successful in index.php
+[13-Apr-2025 16:33:23 UTC] Database connection successful
+[13-Apr-2025 16:33:27 UTC] Database connection successful
+[13-Apr-2025 16:33:27 UTC] Database connection successful in index.php
+[13-Apr-2025 16:33:31 UTC] Database connection successful
+[13-Apr-2025 16:33:31 UTC] Database connection successful in movie.php
+[13-Apr-2025 16:33:31 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 16:33:32 UTC] Database connection successful
+[13-Apr-2025 16:33:32 UTC] Database connection successful
+[13-Apr-2025 16:33:32 UTC] Database connection successful in movie.php
+[13-Apr-2025 16:33:32 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 16:33:35 UTC] Database connection successful
+[13-Apr-2025 16:33:35 UTC] Database connection successful in index.php
+[13-Apr-2025 16:33:36 UTC] Database connection successful
+[13-Apr-2025 16:33:40 UTC] Database connection successful
+[13-Apr-2025 16:33:40 UTC] Database connection successful in index.php
+[13-Apr-2025 16:33:44 UTC] Database connection successful
+[13-Apr-2025 16:33:47 UTC] Database connection successful
+[13-Apr-2025 16:33:47 UTC] Database connection successful in index.php
+[13-Apr-2025 16:33:53 UTC] Database connection successful
+[13-Apr-2025 16:33:53 UTC] Database connection successful in movie.php
+[13-Apr-2025 16:33:53 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 16:33:55 UTC] Database connection successful
+[13-Apr-2025 16:33:55 UTC] Database connection successful
+[13-Apr-2025 16:33:55 UTC] Error fetching movie details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'thumbnail' in 'field list'
+[13-Apr-2025 16:33:57 UTC] Database connection successful
+[13-Apr-2025 16:33:57 UTC] Database connection successful
+[13-Apr-2025 16:33:57 UTC] Error fetching order details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.thumbnail' in 'field list'
+[13-Apr-2025 16:33:57 UTC] Database connection successful
+[13-Apr-2025 16:33:57 UTC] Database connection successful in index.php
+[13-Apr-2025 16:33:58 UTC] Database connection successful
+[13-Apr-2025 16:34:19 UTC] Database connection successful
+[13-Apr-2025 16:34:19 UTC] Database connection successful in index.php
+[13-Apr-2025 16:34:21 UTC] Database connection successful
+[13-Apr-2025 16:35:40 UTC] Database connection successful
+[13-Apr-2025 16:35:40 UTC] Error fetching dashboard stats: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[13-Apr-2025 16:35:40 UTC] PHP Warning:  Undefined array key "name" in /var/www/html/admin/dashboard.php on line 553
+[13-Apr-2025 16:35:40 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 673
+[13-Apr-2025 16:35:40 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 673
+[13-Apr-2025 16:35:40 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 673
+[13-Apr-2025 16:35:40 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 673
+[13-Apr-2025 16:35:40 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 673
+[13-Apr-2025 16:35:40 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 673
+[13-Apr-2025 16:35:40 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 673
+[13-Apr-2025 16:35:40 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 673
+[13-Apr-2025 16:35:40 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 673
+[13-Apr-2025 16:35:40 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 673
+[13-Apr-2025 16:35:40 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 716
+[13-Apr-2025 16:35:40 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 716
+[13-Apr-2025 16:35:40 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 716
+[13-Apr-2025 16:35:40 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 716
+[13-Apr-2025 16:35:40 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 716
+[13-Apr-2025 16:35:40 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 716
+[13-Apr-2025 16:35:40 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 716
+[13-Apr-2025 16:35:40 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 716
+[13-Apr-2025 16:35:40 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 716
+[13-Apr-2025 16:35:40 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 716
+[13-Apr-2025 16:36:09 UTC] Database connection successful
+[13-Apr-2025 16:36:09 UTC] Database connection successful
+[13-Apr-2025 16:36:09 UTC] Database connection successful
+[13-Apr-2025 16:36:09 UTC] Database connection successful in index.php
+[13-Apr-2025 16:36:33 UTC] Database connection successful
+[13-Apr-2025 16:36:33 UTC] Database connection successful in index.php
+[13-Apr-2025 16:36:35 UTC] Database connection successful
+[13-Apr-2025 16:36:39 UTC] Database connection successful
+[13-Apr-2025 16:36:39 UTC] Database connection successful
+[13-Apr-2025 16:36:39 UTC] Database connection successful in index.php
+[13-Apr-2025 16:36:44 UTC] Database connection successful
+[13-Apr-2025 16:36:44 UTC] Error fetching dashboard stats: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[13-Apr-2025 16:36:44 UTC] PHP Warning:  Undefined array key "name" in /var/www/html/admin/dashboard.php on line 553
+[13-Apr-2025 16:36:44 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 673
+[13-Apr-2025 16:36:44 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 673
+[13-Apr-2025 16:36:44 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 673
+[13-Apr-2025 16:36:44 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 673
+[13-Apr-2025 16:36:44 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 673
+[13-Apr-2025 16:36:44 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 673
+[13-Apr-2025 16:36:44 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 673
+[13-Apr-2025 16:36:44 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 673
+[13-Apr-2025 16:36:44 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 673
+[13-Apr-2025 16:36:44 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 673
+[13-Apr-2025 16:36:44 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 716
+[13-Apr-2025 16:36:44 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 716
+[13-Apr-2025 16:36:44 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 716
+[13-Apr-2025 16:36:44 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 716
+[13-Apr-2025 16:36:44 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 716
+[13-Apr-2025 16:36:44 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 716
+[13-Apr-2025 16:36:44 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 716
+[13-Apr-2025 16:36:44 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 716
+[13-Apr-2025 16:36:44 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 716
+[13-Apr-2025 16:36:44 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 716
+[13-Apr-2025 16:36:51 UTC] Database connection successful
+[13-Apr-2025 16:36:51 UTC] Error fetching dashboard stats: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[13-Apr-2025 16:36:51 UTC] PHP Warning:  Undefined array key "name" in /var/www/html/admin/dashboard.php on line 553
+[13-Apr-2025 16:36:51 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 673
+[13-Apr-2025 16:36:51 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 673
+[13-Apr-2025 16:36:51 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 673
+[13-Apr-2025 16:36:51 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 673
+[13-Apr-2025 16:36:51 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 673
+[13-Apr-2025 16:36:51 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 673
+[13-Apr-2025 16:36:51 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 673
+[13-Apr-2025 16:36:51 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 673
+[13-Apr-2025 16:36:51 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 673
+[13-Apr-2025 16:36:51 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 673
+[13-Apr-2025 16:36:51 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 716
+[13-Apr-2025 16:36:51 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 716
+[13-Apr-2025 16:36:51 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 716
+[13-Apr-2025 16:36:51 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 716
+[13-Apr-2025 16:36:51 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 716
+[13-Apr-2025 16:36:51 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 716
+[13-Apr-2025 16:36:51 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 716
+[13-Apr-2025 16:36:51 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 716
+[13-Apr-2025 16:36:51 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 716
+[13-Apr-2025 16:36:51 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 716
+[13-Apr-2025 16:36:53 UTC] Database connection successful
+[13-Apr-2025 16:36:53 UTC] Database connection successful in index.php
+[13-Apr-2025 16:36:56 UTC] Database connection successful
+[13-Apr-2025 16:36:56 UTC] Error fetching dashboard stats: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[13-Apr-2025 16:36:56 UTC] PHP Warning:  Undefined array key "name" in /var/www/html/admin/dashboard.php on line 553
+[13-Apr-2025 16:36:56 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 673
+[13-Apr-2025 16:36:56 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 673
+[13-Apr-2025 16:36:56 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 673
+[13-Apr-2025 16:36:56 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 673
+[13-Apr-2025 16:36:56 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 673
+[13-Apr-2025 16:36:56 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 673
+[13-Apr-2025 16:36:56 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 673
+[13-Apr-2025 16:36:56 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 673
+[13-Apr-2025 16:36:56 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 673
+[13-Apr-2025 16:36:56 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 673
+[13-Apr-2025 16:36:56 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 716
+[13-Apr-2025 16:36:56 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 716
+[13-Apr-2025 16:36:56 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 716
+[13-Apr-2025 16:36:56 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 716
+[13-Apr-2025 16:36:56 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 716
+[13-Apr-2025 16:36:56 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 716
+[13-Apr-2025 16:36:56 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 716
+[13-Apr-2025 16:36:56 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 716
+[13-Apr-2025 16:36:56 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 716
+[13-Apr-2025 16:36:56 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 716
+[13-Apr-2025 16:37:02 UTC] Database connection successful
+[13-Apr-2025 16:37:02 UTC] Database connection successful in index.php
+[13-Apr-2025 16:37:09 UTC] Database connection successful
+[13-Apr-2025 16:37:09 UTC] Error fetching dashboard stats: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[13-Apr-2025 16:37:09 UTC] PHP Warning:  Undefined array key "name" in /var/www/html/admin/dashboard.php on line 553
+[13-Apr-2025 16:37:09 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 673
+[13-Apr-2025 16:37:09 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 673
+[13-Apr-2025 16:37:09 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 673
+[13-Apr-2025 16:37:09 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 673
+[13-Apr-2025 16:37:09 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 673
+[13-Apr-2025 16:37:09 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 673
+[13-Apr-2025 16:37:09 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 673
+[13-Apr-2025 16:37:09 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 673
+[13-Apr-2025 16:37:09 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 673
+[13-Apr-2025 16:37:09 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 673
+[13-Apr-2025 16:37:09 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 716
+[13-Apr-2025 16:37:09 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 716
+[13-Apr-2025 16:37:09 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 716
+[13-Apr-2025 16:37:09 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 716
+[13-Apr-2025 16:37:09 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 716
+[13-Apr-2025 16:37:09 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 716
+[13-Apr-2025 16:37:09 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 716
+[13-Apr-2025 16:37:09 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 716
+[13-Apr-2025 16:37:09 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 716
+[13-Apr-2025 16:37:09 UTC] PHP Warning:  Undefined array key "status" in /var/www/html/admin/dashboard.php on line 716
+[13-Apr-2025 16:38:51 UTC] Database connection successful
+[13-Apr-2025 16:38:51 UTC] Error fetching dashboard stats: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[13-Apr-2025 16:38:51 UTC] PHP Warning:  Undefined array key "first_name" in /var/www/html/admin/dashboard.php on line 553
+[13-Apr-2025 16:38:51 UTC] PHP Warning:  Undefined array key "last_name" in /var/www/html/admin/dashboard.php on line 553
+[13-Apr-2025 16:38:58 UTC] Database connection successful
+[13-Apr-2025 16:38:58 UTC] Database connection successful in index.php
+[13-Apr-2025 16:39:01 UTC] Database connection successful
+[13-Apr-2025 16:39:01 UTC] Database connection successful in movie.php
+[13-Apr-2025 16:39:01 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 16:39:03 UTC] Database connection successful
+[13-Apr-2025 16:39:03 UTC] Database connection successful in index.php
+[13-Apr-2025 16:39:09 UTC] Database connection successful
+[13-Apr-2025 16:39:09 UTC] Error fetching dashboard stats: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[13-Apr-2025 16:39:09 UTC] PHP Warning:  Undefined array key "first_name" in /var/www/html/admin/dashboard.php on line 553
+[13-Apr-2025 16:39:09 UTC] PHP Warning:  Undefined array key "last_name" in /var/www/html/admin/dashboard.php on line 553
+[13-Apr-2025 16:39:51 UTC] Database connection successful
+[13-Apr-2025 16:39:51 UTC] Error fetching dashboard stats: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[13-Apr-2025 16:40:00 UTC] Database connection successful
+[13-Apr-2025 16:40:11 UTC] Database connection successful
+[13-Apr-2025 16:40:13 UTC] Database connection successful
+[13-Apr-2025 16:40:15 UTC] Database connection successful
+[13-Apr-2025 16:40:18 UTC] Database connection successful
+[13-Apr-2025 16:40:20 UTC] Database connection successful
+[13-Apr-2025 16:40:24 UTC] Database connection successful
+[13-Apr-2025 16:40:24 UTC] Error fetching dashboard stats: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[13-Apr-2025 16:40:27 UTC] Database connection successful
+[13-Apr-2025 16:40:29 UTC] Database connection successful
+[13-Apr-2025 16:40:29 UTC] Error fetching dashboard stats: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[13-Apr-2025 16:40:32 UTC] Database connection successful
+[13-Apr-2025 16:40:32 UTC] Error fetching dashboard stats: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[13-Apr-2025 16:40:43 UTC] Database connection successful
+[13-Apr-2025 16:40:43 UTC] Database connection successful in index.php
+[13-Apr-2025 16:40:51 UTC] Database connection successful
+[13-Apr-2025 16:40:57 UTC] Database connection successful
+[13-Apr-2025 16:40:57 UTC] Database connection successful in index.php
+[13-Apr-2025 16:40:59 UTC] Database connection successful
+[13-Apr-2025 16:41:02 UTC] Database connection successful
+[13-Apr-2025 16:41:02 UTC] Database connection successful
+[13-Apr-2025 16:41:05 UTC] Database connection successful
+[13-Apr-2025 16:41:05 UTC] Database connection successful in index.php
+[13-Apr-2025 16:41:06 UTC] Database connection successful
+[13-Apr-2025 16:41:08 UTC] Database connection successful
+[13-Apr-2025 16:41:08 UTC] Database connection successful in index.php
+[13-Apr-2025 17:42:45 UTC] Database connection successful
+[13-Apr-2025 17:42:45 UTC] Database connection successful in index.php
+[13-Apr-2025 17:42:47 UTC] Database connection successful
+[13-Apr-2025 17:42:49 UTC] Database connection successful
+[13-Apr-2025 17:42:49 UTC] Database connection successful
+[13-Apr-2025 17:42:49 UTC] Database connection successful in index.php
+[13-Apr-2025 17:42:51 UTC] Database connection successful
+[13-Apr-2025 17:42:51 UTC] Error fetching dashboard stats: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
+[13-Apr-2025 17:42:57 UTC] Database connection successful
+[13-Apr-2025 17:42:57 UTC] Database connection successful in index.php
+[13-Apr-2025 17:42:58 UTC] Database connection successful
+[13-Apr-2025 17:43:00 UTC] Database connection successful
+[13-Apr-2025 17:43:00 UTC] Database connection successful in index.php
+[13-Apr-2025 17:43:01 UTC] Database connection successful
+[13-Apr-2025 17:43:04 UTC] Database connection successful
+[13-Apr-2025 17:43:04 UTC] Database connection successful in index.php
+[13-Apr-2025 17:43:07 UTC] Database connection successful
+[13-Apr-2025 17:43:07 UTC] Database connection successful in movie.php
+[13-Apr-2025 17:43:07 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 17:43:08 UTC] Database connection successful
+[13-Apr-2025 17:43:08 UTC] Database connection successful
+[13-Apr-2025 17:43:08 UTC] Database connection successful in movie.php
+[13-Apr-2025 17:43:08 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[13-Apr-2025 17:43:10 UTC] Database connection successful
+[13-Apr-2025 17:43:10 UTC] Database connection successful
+[13-Apr-2025 17:43:10 UTC] Error fetching movie details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'thumbnail' in 'field list'
+[13-Apr-2025 17:43:14 UTC] Database connection successful
+[13-Apr-2025 17:43:14 UTC] Database connection successful
+[13-Apr-2025 17:43:14 UTC] Error fetching order details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.thumbnail' in 'field list'
+[13-Apr-2025 17:43:14 UTC] Database connection successful
+[13-Apr-2025 17:43:14 UTC] Database connection successful in index.php
+[13-Apr-2025 17:43:16 UTC] Database connection successful
+[13-Apr-2025 17:43:18 UTC] Database connection successful
+[13-Apr-2025 17:43:18 UTC] Database connection successful in index.php
+[24-Apr-2025 08:47:38 UTC] Database connection successful
+[24-Apr-2025 08:47:38 UTC] Database connection successful in index.php
+[24-Apr-2025 08:47:55 UTC] Database connection successful
+[24-Apr-2025 08:47:55 UTC] Database connection successful in movie.php
+[24-Apr-2025 08:47:55 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[24-Apr-2025 08:48:00 UTC] Database connection successful
+[24-Apr-2025 08:48:02 UTC] Database connection successful
+[24-Apr-2025 08:48:02 UTC] Database connection successful
+[24-Apr-2025 08:48:02 UTC] Database connection successful in movie.php
+[24-Apr-2025 08:48:02 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[24-Apr-2025 08:48:05 UTC] Database connection successful
+[24-Apr-2025 08:48:05 UTC] Database connection successful
+[24-Apr-2025 08:48:05 UTC] Database connection successful in movie.php
+[24-Apr-2025 08:48:05 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[24-Apr-2025 08:48:08 UTC] Database connection successful
+[24-Apr-2025 08:48:08 UTC] Database connection successful
+[24-Apr-2025 08:48:08 UTC] Database connection successful in movie.php
+[24-Apr-2025 08:48:08 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[24-Apr-2025 08:48:09 UTC] Database connection successful
+[24-Apr-2025 08:48:10 UTC] Database connection successful
+[24-Apr-2025 08:48:10 UTC] Error fetching movie details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'thumbnail' in 'field list'
+[24-Apr-2025 08:48:12 UTC] Database connection successful
+[24-Apr-2025 08:48:12 UTC] Database connection successful
+[24-Apr-2025 08:48:12 UTC] Error fetching order details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.thumbnail' in 'field list'
+[24-Apr-2025 08:48:12 UTC] Database connection successful
+[24-Apr-2025 08:48:12 UTC] Database connection successful in index.php
+[24-Apr-2025 08:48:15 UTC] Database connection successful
+[24-Apr-2025 08:48:18 UTC] Database connection successful
+[24-Apr-2025 08:48:18 UTC] Database connection successful in index.php
+[24-Apr-2025 08:48:20 UTC] Database connection successful
+[24-Apr-2025 08:48:22 UTC] Database connection successful
+[24-Apr-2025 08:48:22 UTC] Database connection successful in index.php
+[24-Apr-2025 08:48:51 UTC] Database connection successful
+[24-Apr-2025 08:48:51 UTC] Database connection successful in movie.php
+[24-Apr-2025 08:48:51 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[24-Apr-2025 08:49:02 UTC] Database connection successful
+[24-Apr-2025 08:49:02 UTC] Database connection successful in movie.php
+[24-Apr-2025 08:49:02 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[24-Apr-2025 08:49:06 UTC] Database connection successful
+[24-Apr-2025 08:49:06 UTC] Database connection successful
+[24-Apr-2025 08:49:06 UTC] Error fetching movie details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'thumbnail' in 'field list'
+[24-Apr-2025 08:49:09 UTC] Database connection successful
+[24-Apr-2025 08:49:09 UTC] Database connection successful
+[24-Apr-2025 08:49:09 UTC] Error fetching order details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.thumbnail' in 'field list'
+[24-Apr-2025 08:49:09 UTC] Database connection successful
+[24-Apr-2025 08:49:09 UTC] Database connection successful in index.php
+[24-Apr-2025 08:49:11 UTC] Database connection successful
+[24-Apr-2025 08:49:16 UTC] Database connection successful
+[24-Apr-2025 08:49:16 UTC] Database connection successful in index.php
+[24-Apr-2025 08:49:19 UTC] Database connection successful
+[24-Apr-2025 08:49:19 UTC] Database connection successful in movie.php
+[24-Apr-2025 08:49:19 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[24-Apr-2025 08:49:22 UTC] Database connection successful
+[24-Apr-2025 08:49:22 UTC] Database connection successful in movie.php
+[24-Apr-2025 08:49:22 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[24-Apr-2025 08:49:26 UTC] Database connection successful
+[24-Apr-2025 08:49:26 UTC] Database connection successful
+[24-Apr-2025 08:49:26 UTC] Error fetching movie details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'thumbnail' in 'field list'
+[24-Apr-2025 08:49:28 UTC] Database connection successful
+[24-Apr-2025 08:49:29 UTC] Database connection successful
+[24-Apr-2025 08:49:29 UTC] Error fetching order details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.thumbnail' in 'field list'
+[24-Apr-2025 08:49:29 UTC] Database connection successful
+[24-Apr-2025 08:49:29 UTC] Database connection successful in index.php
+[24-Apr-2025 08:49:32 UTC] Database connection successful
+[24-Apr-2025 08:49:32 UTC] Database connection successful in movie.php
+[24-Apr-2025 08:49:32 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[24-Apr-2025 08:49:34 UTC] Database connection successful
+[24-Apr-2025 08:49:34 UTC] Database connection successful in movie.php
+[24-Apr-2025 08:49:35 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[24-Apr-2025 08:49:36 UTC] Database connection successful
+[24-Apr-2025 08:49:36 UTC] Database connection successful
+[24-Apr-2025 08:49:36 UTC] Database connection successful in movie.php
+[24-Apr-2025 08:49:36 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[24-Apr-2025 08:49:38 UTC] Database connection successful
+[24-Apr-2025 08:49:38 UTC] Database connection successful
+[24-Apr-2025 08:49:38 UTC] Error fetching movie details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'thumbnail' in 'field list'
+[24-Apr-2025 08:49:44 UTC] Database connection successful
+[24-Apr-2025 08:49:44 UTC] Error fetching movie details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'thumbnail' in 'field list'
+[24-Apr-2025 08:49:45 UTC] Database connection successful
+[24-Apr-2025 08:49:45 UTC] Database connection successful in index.php
+[24-Apr-2025 08:50:09 UTC] Database connection successful
+[24-Apr-2025 08:50:09 UTC] Database connection successful in movie.php
+[24-Apr-2025 08:50:09 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[24-Apr-2025 08:50:11 UTC] Database connection successful
+[24-Apr-2025 08:50:11 UTC] Database connection successful
+[24-Apr-2025 08:50:11 UTC] Database connection successful in movie.php
+[24-Apr-2025 08:50:11 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[24-Apr-2025 08:50:14 UTC] Database connection successful
+[24-Apr-2025 08:50:14 UTC] Database connection successful
+[24-Apr-2025 08:50:14 UTC] Error fetching movie details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'thumbnail' in 'field list'
+[24-Apr-2025 08:50:19 UTC] Database connection successful
+[24-Apr-2025 08:50:19 UTC] Database connection successful in index.php
+[24-Apr-2025 08:50:20 UTC] Database connection successful
+[24-Apr-2025 08:50:24 UTC] Database connection successful
+[24-Apr-2025 08:50:24 UTC] Database connection successful in index.php
+[24-Apr-2025 08:50:25 UTC] Database connection successful
+[24-Apr-2025 08:50:29 UTC] Database connection successful
+[24-Apr-2025 08:50:29 UTC] Database connection successful
+[24-Apr-2025 08:50:37 UTC] Database connection successful
+[24-Apr-2025 08:50:37 UTC] Database connection successful
+[24-Apr-2025 08:50:38 UTC] Database connection successful
+[24-Apr-2025 08:50:38 UTC] Database connection successful in index.php
+[24-Apr-2025 08:50:40 UTC] Database connection successful
+[24-Apr-2025 08:50:43 UTC] Database connection successful
+[24-Apr-2025 08:50:43 UTC] Database connection successful in index.php
+[24-Apr-2025 09:33:15 UTC] Database connection successful
+[24-Apr-2025 09:33:15 UTC] Database connection successful in index.php
+[24-Apr-2025 09:33:19 UTC] Database connection successful
+[24-Apr-2025 09:33:19 UTC] Database connection successful in movie.php
+[24-Apr-2025 09:33:19 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[24-Apr-2025 09:33:22 UTC] Database connection successful
+[24-Apr-2025 09:33:22 UTC] Database connection successful in index.php
+[24-Apr-2025 10:47:17 UTC] Database connection successful
+[24-Apr-2025 10:47:17 UTC] Database connection successful in index.php
+[24-Apr-2025 10:47:27 UTC] Database connection successful
+[24-Apr-2025 10:47:27 UTC] Database connection successful in index.php
+[24-Apr-2025 10:47:29 UTC] Database connection successful
+[24-Apr-2025 10:47:29 UTC] Database connection successful in index.php
+[24-Apr-2025 10:48:59 UTC] Database connection successful
+[24-Apr-2025 10:48:59 UTC] Database connection successful in index.php
+[24-Apr-2025 10:50:44 UTC] Database connection successful
+[24-Apr-2025 10:50:44 UTC] Database connection successful in index.php
+[24-Apr-2025 10:51:03 UTC] Database connection successful
+[24-Apr-2025 10:51:03 UTC] Database connection successful in movie.php
+[24-Apr-2025 10:51:03 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[24-Apr-2025 10:52:03 UTC] Database connection successful
+[24-Apr-2025 10:52:03 UTC] Database connection successful in index.php
+[24-Apr-2025 10:52:05 UTC] Database connection successful
+[24-Apr-2025 10:52:05 UTC] Database connection successful in index.php
+[24-Apr-2025 10:52:24 UTC] Database connection successful
+[24-Apr-2025 10:52:24 UTC] Database connection successful in movie.php
+[24-Apr-2025 10:52:24 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[24-Apr-2025 10:52:26 UTC] Database connection successful
+[24-Apr-2025 10:52:28 UTC] Database connection successful
+[24-Apr-2025 10:52:28 UTC] Database connection successful
+[24-Apr-2025 10:52:28 UTC] Database connection successful in movie.php
+[24-Apr-2025 10:52:28 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[24-Apr-2025 10:52:33 UTC] Database connection successful
+[24-Apr-2025 10:52:33 UTC] Database connection successful in movie.php
+[24-Apr-2025 10:52:33 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[24-Apr-2025 10:52:36 UTC] Database connection successful
+[24-Apr-2025 10:52:36 UTC] Database connection successful in movie.php
+[24-Apr-2025 10:52:36 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[24-Apr-2025 10:52:38 UTC] Database connection successful
+[24-Apr-2025 10:52:38 UTC] Database connection successful in index.php
+[24-Apr-2025 10:52:40 UTC] Database connection successful
+[24-Apr-2025 10:52:43 UTC] Database connection successful
+[24-Apr-2025 10:52:43 UTC] Database connection successful in index.php
+[24-Apr-2025 10:52:46 UTC] Database connection successful
+[24-Apr-2025 10:52:46 UTC] Database connection successful in movie.php
+[24-Apr-2025 10:52:46 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[24-Apr-2025 10:52:47 UTC] Database connection successful
+[24-Apr-2025 10:52:47 UTC] Database connection successful
+[24-Apr-2025 10:52:47 UTC] Error fetching movie details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'thumbnail' in 'field list'
+[24-Apr-2025 10:52:49 UTC] Database connection successful
+[24-Apr-2025 10:52:49 UTC] Database connection successful
+[24-Apr-2025 10:52:49 UTC] Error fetching order details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.thumbnail' in 'field list'
+[24-Apr-2025 10:52:49 UTC] Database connection successful
+[24-Apr-2025 10:52:49 UTC] Database connection successful in index.php
+[24-Apr-2025 10:52:53 UTC] Database connection successful
+[24-Apr-2025 10:52:53 UTC] Database connection successful in movie.php
+[24-Apr-2025 10:52:53 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[24-Apr-2025 10:52:56 UTC] Database connection successful
+[24-Apr-2025 10:52:56 UTC] Database connection successful in movie.php
+[24-Apr-2025 10:52:56 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[24-Apr-2025 10:53:00 UTC] Database connection successful
+[24-Apr-2025 10:53:00 UTC] Database connection successful in movie.php
+[24-Apr-2025 10:53:00 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[24-Apr-2025 10:53:03 UTC] Database connection successful
+[24-Apr-2025 10:53:03 UTC] Database connection successful in index.php
+[24-Apr-2025 10:53:06 UTC] Database connection successful
+[24-Apr-2025 10:53:06 UTC] Database connection successful in movie.php
+[24-Apr-2025 10:53:06 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[24-Apr-2025 10:53:09 UTC] Database connection successful
+[24-Apr-2025 10:53:09 UTC] Database connection successful in movie.php
+[24-Apr-2025 10:53:09 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[24-Apr-2025 10:54:16 UTC] Database connection successful
+[24-Apr-2025 10:54:16 UTC] Database connection successful in movie.php
+[24-Apr-2025 10:54:16 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[24-Apr-2025 10:54:17 UTC] Database connection successful
+[24-Apr-2025 10:54:17 UTC] Database connection successful in index.php
+[24-Apr-2025 10:54:19 UTC] Database connection successful
+[24-Apr-2025 10:54:20 UTC] Database connection successful
+[24-Apr-2025 10:54:20 UTC] Database connection successful in index.php
+[24-Apr-2025 10:54:23 UTC] Database connection successful
+[24-Apr-2025 10:54:23 UTC] Database connection successful in movie.php
+[24-Apr-2025 10:54:23 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[24-Apr-2025 10:54:24 UTC] Database connection successful
+[24-Apr-2025 10:54:24 UTC] Database connection successful
+[24-Apr-2025 10:54:24 UTC] Database connection successful in movie.php
+[24-Apr-2025 10:54:24 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[24-Apr-2025 10:54:38 UTC] Database connection successful
+[24-Apr-2025 10:54:38 UTC] Database connection successful
+[24-Apr-2025 10:54:38 UTC] Database connection successful in movie.php
+[24-Apr-2025 10:54:38 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[24-Apr-2025 10:54:39 UTC] Database connection successful
+[24-Apr-2025 10:54:40 UTC] Database connection successful
+[24-Apr-2025 10:54:40 UTC] Error fetching movie details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'thumbnail' in 'field list'
+[24-Apr-2025 10:54:41 UTC] Database connection successful
+[24-Apr-2025 10:54:42 UTC] Database connection successful
+[24-Apr-2025 10:54:42 UTC] Error fetching order details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.thumbnail' in 'field list'
+[24-Apr-2025 10:54:42 UTC] Database connection successful
+[24-Apr-2025 10:54:42 UTC] Database connection successful in index.php
+[24-Apr-2025 10:54:45 UTC] Database connection successful
+[24-Apr-2025 10:54:45 UTC] Database connection successful in movie.php
+[24-Apr-2025 10:54:45 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[24-Apr-2025 10:54:48 UTC] Database connection successful
+[24-Apr-2025 10:54:48 UTC] Database connection successful in movie.php
+[24-Apr-2025 10:54:48 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[24-Apr-2025 10:54:49 UTC] Database connection successful
+[24-Apr-2025 10:54:49 UTC] Database connection successful
+[24-Apr-2025 10:54:49 UTC] Database connection successful in movie.php
+[24-Apr-2025 10:54:49 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[24-Apr-2025 10:54:50 UTC] Database connection successful
+[24-Apr-2025 10:54:50 UTC] Database connection successful
+[24-Apr-2025 10:54:50 UTC] Error fetching movie details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'thumbnail' in 'field list'
+[24-Apr-2025 10:54:53 UTC] Database connection successful
+[24-Apr-2025 10:54:53 UTC] Database connection successful
+[24-Apr-2025 10:54:53 UTC] Error fetching order details: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'm.thumbnail' in 'field list'
+[24-Apr-2025 10:54:53 UTC] Database connection successful
+[24-Apr-2025 10:54:53 UTC] Database connection successful in index.php
+[24-Apr-2025 10:54:54 UTC] Database connection successful
+[24-Apr-2025 10:54:57 UTC] Database connection successful
+[24-Apr-2025 10:54:57 UTC] Database connection successful in index.php
+[24-Apr-2025 10:54:58 UTC] Database connection successful
+[24-Apr-2025 10:55:05 UTC] Database connection successful
+[24-Apr-2025 10:55:09 UTC] Database connection successful
+[24-Apr-2025 10:55:09 UTC] Database connection successful in index.php
+[24-Apr-2025 10:55:11 UTC] Database connection successful
+[24-Apr-2025 10:55:11 UTC] Database connection successful in movie.php
+[24-Apr-2025 10:55:11 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[24-Apr-2025 10:55:12 UTC] Database connection successful
+[24-Apr-2025 10:55:12 UTC] Database connection successful
+[24-Apr-2025 10:55:12 UTC] Database connection successful in movie.php
+[24-Apr-2025 10:55:12 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[24-Apr-2025 10:55:14 UTC] Database connection successful
+[24-Apr-2025 10:55:14 UTC] Database connection successful in index.php
+[24-Apr-2025 10:55:15 UTC] Database connection successful
+[24-Apr-2025 10:55:21 UTC] Database connection successful
+[24-Apr-2025 10:56:25 UTC] Database connection successful
+[24-Apr-2025 10:56:25 UTC] Database connection successful
+[24-Apr-2025 10:56:25 UTC] Database connection successful in index.php
+[24-Apr-2025 10:56:27 UTC] Database connection successful
+[24-Apr-2025 10:56:30 UTC] Database connection successful
+[24-Apr-2025 10:56:30 UTC] Database connection successful
+[24-Apr-2025 10:56:33 UTC] Database connection successful
+[24-Apr-2025 10:56:33 UTC] Database connection successful
+[24-Apr-2025 10:56:35 UTC] Database connection successful
+[24-Apr-2025 10:56:35 UTC] Database connection successful in index.php
+[24-Apr-2025 10:56:37 UTC] Database connection successful
+[24-Apr-2025 10:56:37 UTC] Database connection successful in movie.php
+[24-Apr-2025 10:56:37 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[24-Apr-2025 10:56:38 UTC] Database connection successful
+[24-Apr-2025 10:56:38 UTC] Database connection successful
+[24-Apr-2025 10:56:38 UTC] Database connection successful in movie.php
+[24-Apr-2025 10:56:38 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[24-Apr-2025 10:56:42 UTC] Database connection successful
+[24-Apr-2025 10:56:42 UTC] Database connection successful in index.php
+[24-Apr-2025 10:56:44 UTC] Database connection successful
+[24-Apr-2025 10:56:47 UTC] Database connection successful
+[24-Apr-2025 10:56:47 UTC] Database connection successful
+[24-Apr-2025 10:56:55 UTC] Database connection successful
+[24-Apr-2025 10:56:55 UTC] Database connection successful in index.php
+[24-Apr-2025 11:09:00 UTC] Database connection successful
+[24-Apr-2025 11:09:50 UTC] Database connection successful
+[24-Apr-2025 11:09:51 UTC] Database connection successful
+[24-Apr-2025 11:10:07 UTC] Database connection successful
+[24-Apr-2025 11:10:08 UTC] Database connection successful
+[24-Apr-2025 11:10:09 UTC] Database connection successful
+[24-Apr-2025 11:10:09 UTC] Database connection successful
+[24-Apr-2025 11:10:09 UTC] Database connection successful
+[24-Apr-2025 11:10:44 UTC] Database connection successful
+[24-Apr-2025 11:10:45 UTC] Database connection successful
+[24-Apr-2025 11:12:10 UTC] Database connection successful
+[24-Apr-2025 11:12:30 UTC] Database connection successful
+[24-Apr-2025 11:13:33 UTC] Database connection successful
+[24-Apr-2025 11:13:33 UTC] Database connection successful in index.php
+[24-Apr-2025 11:14:00 UTC] Database connection successful
+[24-Apr-2025 11:14:00 UTC] Database connection successful in movie.php
+[24-Apr-2025 11:14:00 UTC] Error fetching movie categories: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'newdb.movie_categories' doesn't exist
+[24-Apr-2025 11:14:02 UTC] Database connection successful
+[24-Apr-2025 11:14:02 UTC] Database connection successful in index.php
+[24-Apr-2025 11:18:42 UTC] Database connection successful
+[24-Apr-2025 11:18:42 UTC] Error fetching dashboard stats: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'where clause'
